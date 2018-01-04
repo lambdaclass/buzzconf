@@ -1,4 +1,5 @@
 # BuzzConf
+![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/poster.png)
 
 ## Call for Presentations
 
@@ -13,6 +14,7 @@ Areas of particular interest to the conference include:
 - profiling/debugging
 - embedded systems
 - the most modern tools to deal with the world's complexity
+
 
 ## Format
 
