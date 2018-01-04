@@ -3,9 +3,9 @@
 
 ## Call for Presentations
 
-BuzzConf is a conference thats explores the new horizons in computer science such as functional programming, distributed systems, big data, machine learning and other interdisciplinary areas and brings them to a bigger audience. 
+BuzzConf is a conference thats explores the new horizons in computer science such as functional programming, distributed systems, big data, machine learning and other interdisciplinary areas and brings them to a bigger audience.
 
-The conference will take place between the last week of April and the first week of May 2018 in Buenos Aires, Argentina. The exact date will be confirmed shortly. 
+The conference will take place between the **last week of April and the first week of May 2018 in Buenos Aires, Argentina**. The exact date will be confirmed shortly. 
 
 Areas of particular interest to the conference include:
 - programming languages
