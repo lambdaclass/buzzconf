@@ -18,7 +18,8 @@ Areas of particular interest to the conference include:
 - the most modern tools to deal with the world's complexity
 
 To submit your talk proposal please complete the following form:
-https://docs.google.com/forms/d/e/1FAIpQLSc7ywl7EDXe7sDfM5EDnGRJyWd6Xs7GiXl9L37UKMaUPuaVFw
+
+https://goo.gl/forms/CnF3HhcPV7jb2ttZ2
 
 ## Format
 
