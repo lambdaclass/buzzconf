@@ -17,6 +17,9 @@ Areas of particular interest to the conference include:
 - embedded systems
 - the most modern tools to deal with the world's complexity
 
+To submit your talk proposal please complete the following form:
+
+https://goo.gl/forms/CnF3HhcPV7jb2ttZ2
 
 ## Format
 
