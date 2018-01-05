@@ -8,7 +8,7 @@ BuzzConf is a conference thats explores the new horizons in computer science suc
 The conference will take place between the **last week of April and the first week of May 2018 in Buenos Aires, Argentina**. The exact date will be confirmed shortly. 
 
 Areas of particular interest to the conference include:
-- programming languages
+- programming languages design
 - functional programming
 - distributed data
 - machine learning
