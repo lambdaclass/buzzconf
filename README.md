@@ -2,7 +2,7 @@
 ![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/poster.png)
 
 - [English](#call-for-presentations)
-- [Spanish](#Convocatoria-para-la-presentación-de-charlas)
+- [Spanish](#convocatoria-para-la-presentación-de-charlas)
 
 ## Call for Presentations
 
@@ -42,8 +42,6 @@ Speakers will receive free admission to BuzzConf.
 We are striving to provide some form of travel grant to assist with the costs of attending. We’ll post details here once a budget is finalized.
 
 ---
-
-Español:
 
 ## Convocatoria para la presentación de charlas
 
