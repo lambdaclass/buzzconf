@@ -2,7 +2,7 @@
 ![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/poster.png)
 
 - [English](#call-for-presentations)
-- [Spanish](#Convocatoria-para-la-presentacion-de-charlas)
+- [Spanish](#Convocatoria-para-la-presentación-de-charlas)
 
 ## Call for Presentations
 
