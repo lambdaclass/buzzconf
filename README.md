@@ -47,7 +47,7 @@ We are striving to provide some form of travel grant to assist with the costs of
 
 BuzzConf es una conferencia que explora los nuevos horizontes de la informática tale como la programación funcional, los sistemas distribuidos, big data, machine learning y otras áreas interdisciplinarias y los acerca a un público más amplio.
 
-La conferencia tendrá lugar entre la ** última semana de abril y la primera semana de mayo de 2018 en Buenos Aires, Argentina **. La fecha exacta será confirmada en breve.
+La conferencia tendrá lugar entre la **última semana de abril y la primera semana de mayo de 2018 en Buenos Aires, Argentina**. La fecha exacta será confirmada en breve.
 
 Las áreas de particular interés para la conferencia incluyen, pero no están limitadas a:
 - diseño de lenguajes de programación
