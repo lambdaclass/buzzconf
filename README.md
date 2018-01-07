@@ -43,7 +43,7 @@ We are striving to provide some form of travel grant to assist with the costs of
 
 ## Code of Conduct
 
-Please read and follow the [Code of Conduct](./CODE_OF_CONDUCT.md)
+Please read and follow the [code of conduct](./CODE_OF_CONDUCT.md) of the conference.
 
 ---
 
@@ -84,3 +84,7 @@ El programa será anunciado: miércoles, 14 de marzo de 2018
 Los oradores recibirán entrada gratuita a BuzzConf.
 
 Nos estamos esforzando para proporcionar alguna forma de subvención para ayudar con los costos de asistencia. Publicaremos los detalles aquí una vez que se finalice el presupuesto.
+
+## Código de conducta
+
+Por favor lea y siga el [código de conducta](./CODE_OF_CONDUCT.md) de la conferencia.
