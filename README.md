@@ -24,9 +24,13 @@ To submit your talk proposal please complete the following form:
 
 https://goo.gl/forms/CnF3HhcPV7jb2ttZ2
 
+## Initial offer tickets
+
+You can buy tickets via [eventbrite](https://www.eventbrite.com.ar/e/buzzconf-fp-distributed-systems-big-data-and-machine-learning-tickets-41924367913)
+
 ## Format
 
-Each accepted talk will get a 40 minute talk slot
+Each accepted talk will get a 40 minute talk slot.
 
 ## Deadlines
 
@@ -44,6 +48,7 @@ We are striving to provide some form of travel grant to assist with the costs of
 ## Code of Conduct
 
 Please read and follow the [code of conduct](./CODE_OF_CONDUCT.md) of the conference.
+ 
 
 ---
 
@@ -67,9 +72,13 @@ Para enviar tu propuesta de charla, completá el siguiente formulario:
 
 https://goo.gl/forms/CnF3HhcPV7jb2ttZ2
 
+## Entradas iniciales
+
+Podes comprar las entradas a través de [eventbrite](https://www.eventbrite.com.ar/e/buzzconf-fp-distributed-systems-big-data-and-machine-learning-tickets-41924367913).
+
 ## Formato
 
-Cada charla aceptada deberá durar 40 minutos 
+Cada charla aceptada deberá durar 40 minutos.
 
 ## Plazos
 
