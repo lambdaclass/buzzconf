@@ -41,6 +41,10 @@ Program announced: Wednesday, March 14th, 2018
 Speakers will receive free admission to BuzzConf.
 We are striving to provide some form of travel grant to assist with the costs of attending. We’ll post details here once a budget is finalized.
 
+## Code of Conduct
+
+Please read and follow the [Code of Conduct](./CODE_OF_CONDUCT.md)
+
 ---
 
 ## Convocatoria para la presentación de charlas
