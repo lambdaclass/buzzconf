@@ -3884,8 +3884,8 @@
 
 	#intro {
 
-                background-color: #b60f34;
-                background-image: url("../img/background.jpg");
+            background-image: url("../img/background.jpg");
+            background-size: 100%;
 	}
 
 		#intro p {
