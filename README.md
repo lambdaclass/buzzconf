@@ -8,7 +8,7 @@
 
 BuzzConf is a conference by developers for developers thats explores the new horizons in computer science such as functional programming, distributed systems, big data, machine learning and other interdisciplinary areas and brings them to a bigger audience.
 
-The conference will take place between the **last week of April and the first week of May 2018 in Buenos Aires, Argentina**. The exact date will be confirmed shortly. 
+The conference will take place between the **Thursday 26th of April in Buenos Aires, Argentina**. On Friday April 27th we will host a few workshops .
 
 Areas of particular interest to the conference include:
 - programming languages design
@@ -56,7 +56,10 @@ Please read and follow the [code of conduct](./CODE_OF_CONDUCT.md) of the confer
 
 BuzzConf es una conferencia hecha por desarrolladores para desarolladores, que explora los nuevos horizontes de la informática tale como la programación funcional, los sistemas distribuidos, big data, machine learning y otras áreas interdisciplinarias y los acerca a un público más amplio.
 
-La conferencia tendrá lugar entre la **última semana de abril y la primera semana de mayo de 2018 en Buenos Aires, Argentina**. La fecha exacta será confirmada en breve.
+La conferencia tendrá lugar el **Jueves 26 de Abril en Buenos Aires, Argentina**. La conferencia se realizará en la Ciudad Cultural Konex.
+![konex](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/konex.jpg)
+
+El Viernes 27 de Abril también organizaremos una serie de talleres. El lugar queda por definir.
 
 Las áreas de particular interés para la conferencia incluyen, pero no están limitadas a:
 - diseño de lenguajes de programación
