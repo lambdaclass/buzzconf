@@ -29,7 +29,7 @@ https://goo.gl/forms/CnF3HhcPV7jb2ttZ2
 
 ## Initial offer tickets
 
-You can buy tickets via [eventbrite](https://www.eventbrite.com.ar/e/buzzconf-fp-distributed-systems-big-data-and-machine-learning-tickets-41924367913)
+You can buy tickets via [eventbrite](https://buzzconf.eventbrite.com.ar)
 
 ## Format
 
