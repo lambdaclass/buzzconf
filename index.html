@@ -1,112 +1,655 @@
-<html>
+<!DOCTYPE html>
+<!--  This site was created in Webflow. http://www.webflow.com  -->
+<!--  Last Published: Sun Mar 11 2018 18:17:03 GMT+0000 (UTC)  -->
+<html data-wf-page="5aa54fe3f3d89b0001235906" data-wf-site="5aa54fe3f3d89b0001235902">
     <head>
-	<title>BuzzConf - functional programming, distributed systems, big data and machine learning</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-	<link rel="stylesheet" href="assets/css/main.css" />
-	<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-
-        <meta property="og:title" content="BuzzConf - functional programming, distributed systems, big data and machine learning">
-        <meta property="og:description" content="BuzzConf - functional programming, distributed systems, big data and machine learning">
-        <meta property="og:image" content="https://raw.githubusercontent.com/lambdaclass/buzzconf/master/poster.png">
-        <meta property="og:url" content="http://buzzconf.org">
-
-        <meta name="description" content="BuzzConf - functional programming, distributed systems, big data and machine learning">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image:src" content="https://raw.githubusercontent.com/lambdaclass/buzzconf/master/poster.png">
+        <meta charset="utf-8">
+        <title>Home</title>
+        <meta content="Conference is a powerful CMS template featuring a clean, beautiful responsive Webflow design. Made of several sections like: Speakers, Schedule, Blog, Tickets, Register plus more, everything you need to launch your Conference landing page in no time!" name="description">
+        <meta content="Home" property="og:title">
+        <meta content="Conference is a powerful CMS template featuring a clean, beautiful responsive Webflow design. Made of several sections like: Speakers, Schedule, Blog, Tickets, Register plus more, everything you need to launch your Conference landing page in no time!" property="og:description">
+        <meta content="summary" name="twitter:card">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <meta content="Webflow" name="generator">
+        <link href="css/normalize.css" rel="stylesheet" type="text/css">
+        <link href="css/webflow.css" rel="stylesheet" type="text/css">
+        <link href="css/buzzconf.webflow.css" rel="stylesheet" type="text/css">
+        <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript"></script>
+        <script type="text/javascript">WebFont.load({  google: {    families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic","Raleway:200,200italic,300,regular,500,600,700,800,900","Muli:regular,italic"]  }});</script>
+        <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
+        <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+        <link href="images/32x32-1.png" rel="shortcut icon" type="image/x-icon">
+        <link href="images/256x256-1.png" rel="apple-touch-icon">
     </head>
-    <body>
-	<!-- Wrapper -->
-	<div id="wrapper">
+    <body data-ix="full-opacity-on-load" class="body">
+        <div data-collapse="medium" data-animation="default" data-duration="400" data-ix="display-none-on-load-fixed-navbar" class="fixed-navbar w-hidden-small w-nav">
+            <div class="content-wrapper w-container"><a href="index.html" class="brand w-nav-brand"><img src="images/Logo-2.png" width="158"></a>
+                <nav role="navigation" class="nav-menu on-fixed-navbar w-clearfix w-nav-menu">
+                    <a href="#speakers" data-ix="slide-in-hover-line-on-hover" class="nav-link w-inline-block">
+                        <div data-ix="hover-line-initial-appearance" class="hover-line"></div>
+                        <div>speakers</div>
+                    </a>
+                    <a href="#schedule" data-ix="slide-in-hover-line-on-hover" class="nav-link w-inline-block">
+                        <div data-ix="hover-line-initial-appearance" class="hover-line"></div>
+                        <div>schedule</div>
+                    </a>
+                    <a href="#tickets" data-ix="slide-in-hover-line-on-hover" class="nav-link w-inline-block">
+                        <div data-ix="hover-line-initial-appearance" class="hover-line"></div>
+                        <div>tickets</div>
+                    </a>
+                    <a href="https://buzzconf.eventbrite.com" data-ix="slide-in-hover-line-on-hover" class="nav-link register w-inline-block">
+                        <div>register</div>
+                    </a>
+                </nav>
+                <div class="menu-button w-nav-button">
+                    <div class="burger-line-1"></div>
+                    <div class="burger-line-2"></div>
+                    <div class="burger-line-3"></div>
+                </div>
+            </div>
+        </div>
+        <div data-collapse="medium" data-animation="default" data-duration="400" id="Top" class="navbar w-nav">
+            <div class="content-wrapper w-container"><a href="index.html" class="brand w-nav-brand"><img src="images/Logo-Conference-Template.png" width="158"></a>
+                <nav role="navigation" class="nav-menu w-clearfix w-nav-menu">
+                    <a href="#speakers" data-ix="slide-in-hover-line-on-hover" class="nav-link w-inline-block">
+                        <div data-ix="hover-line-initial-appearance" class="hover-line"></div>
+                        <div>speakers</div>
+                    </a>
+                    <a href="#schedule" data-ix="slide-in-hover-line-on-hover" class="nav-link w-inline-block">
+                        <div data-ix="hover-line-initial-appearance" class="hover-line"></div>
+                        <div>SCHEDULE</div>
+                    </a>
+                    <a href="#tickets" data-ix="slide-in-hover-line-on-hover" class="nav-link w-inline-block">
+                        <div data-ix="hover-line-initial-appearance" class="hover-line"></div>
+                        <div>tickets</div>
+                    </a>
+                    <a href="https://buzzconf.eventbrite.com" data-ix="slide-in-hover-line-on-hover" class="nav-link register w-inline-block">
+                        <div>register</div>
+                    </a>
+                </nav>
+                <div class="menu-button w-nav-button">
+                    <div class="burger-line-1"></div>
+                    <div class="burger-line-2"></div>
+                    <div class="burger-line-3"></div>
+                </div>
+            </div>
+        </div>
+        <div data-ix="actions-for-hero-section" class="hero-section-1"><a href="#Intro" class="scroll-down-arrow w-inline-block"><img src="images/Arrow-down-2.png" width="19" class="scroll-arrow"></a>
+            <div class="content-wrapper w-container">
+                <div class="hero-text">
+                    <div data-ix="hero-block-1-initial-appearance" class="hero-block-1">
+                        <h1>BuzzConf &#x27;18</h1>
+                    </div>
+                    <div data-ix="underline-initial-appearance" class="underline"></div>
+                    <div data-ix="hero-block-2-initial-appearance" class="hero-block-2">
+                        <div class="cursive-text">Functional Programming, <br>Distributed Systems, <br>Embedded Systems,<br>Big Data &amp; <br>Machine Learning</div>
+                        <div>
+                            <div class="mini-columns-container">
+                                <div class="mini-column right-border">
+                                    <div>Buenos Aires</div>
+                                </div>
+                                <div class="mini-column">
+                                    <div>April 26th</div>
+                                </div>
+                            </div>
+                        </div><a href="home-2.html" class="see-hero-link white w-inline-block"></a></div>
+                </div>
+            </div>
+        </div>
+        <div class="go-up-bar">
+            <div class="go-up-wrapper">
+                <a href="#Top" data-ix="display-none-on-load-arrow-go-up" class="go-up-button w-inline-block">
+                    <div data-ix="-go-up-button-" class="go-up-overlay"></div>
+                </a>
+            </div>
+        </div>
+        <div id="Intro" data-ix="slide-up-section" class="content-section">
+            <div class="content-wrapper w-container">
+                <div class="header-box">
+                    <div class="mini-title">introduction</div>
+                    <h2>A conference by developers, <br>for developers</h2>
+                    <div class="underline crimson"></div>
+                    <div class="paragraph-box _80-percent-centered"></div>
+                </div>
+                <div class="columns-container w-clearfix">
+                    <div class="column-text-box left">
+                        <p class="w-clearfix"><br><span><strong class="bold-text">B</strong></span>uzzConf is a conference created by developers for developers that explores the new horizons in computer science such as functional programming, distributed systems, big data, machine learning and other interdisciplinary areas and brings them to a bigger audience.</p>
+                        <p>Buzzconf consists in a day of talks given by experts in each area, followed by day of workshops for more in-depth learning.</p>
+                        <p>We strive to create interesting discussions within the community about the challenges and opportunities in the near future of programming.</p>
+                    </div>
+                    <img src="images/konex.jpg" class="right">
+                </div>
 
-	    <!-- Intro -->
-	    <section id="intro" class="wrapper style1 fullscreen fade-up">
-		<div class="inner">
-		    <h1>BuzzConf</h1>
-		    <p>Functional Programming, Distributed Systems, Big Data and Machine Learning</p>
-		</div>
-	    </section>
+            </div>
+        </div>
+        <div class="grid-container w-clearfix">
+            <div class="intro-image-grid"></div>
+            <div class="intro-image-grid"></div>
+        </div>
+        <div id="Features" data-ix="slide-up-section" class="features-section">
+            <div class="content-wrapper w-container">
+                <div class="features">
+                    <div class="intro-feature _1">
+                        <div class="intro-feature-flex w-clearfix">
+                            <div class="feature-icon-box"><img src="images/Calendar.png" width="48" class="feature-icon"></div>
+                            <div class="feature-text">
+                                <div class="title">Conference day</div>
+                                <p class="paragraph small">The main event will take up an entire day</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="intro-feature _2">
+                        <div class="intro-feature-flex w-clearfix">
+                            <div class="feature-icon-box"><img src="images/Chat.png" width="48" class="feature-icon"></div>
+                            <div class="feature-text">
+                                <div class="title">WORKSHOPS</div>
+                                <p class="paragraph small">BuzzConf speakers will host workshops on April 27th. Location: to be announced. Price not included in general fee.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="speakers" data-ix="slide-up-section" class="speakers-container">
+            <div class="w-dyn-list">
+                <div class="w-dyn-items">
+                    <div class="w-dyn-item">
+                        <div id="Speaker-1" class="speaker">
+                            <div class="speaker-picture-box w-clearfix">
+                                <div class="speaker-picture _1"></div>
+                            </div>
+                            <div class="speaker-description-box">
+                                <div class="header-box left-justified">
+                                    <div class="mini-title">speaker</div>
+                                    <h2>Steve Klabnik</h2>
+                                    <div class="underline crimson"></div>
+                                    <div class="subtitle">This is some text inside of a div block.</div>
+                                    <div>
+                                        <div class="paragraph-box _55-percent">
+                                            <div class="w-richtext">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
-	    <!-- Two -->
-	    <section id="cfp" class="wrapper style2 fade-up">
-		<div class="inner">
-                    <p>BuzzConf is a conference thats explores the new horizons in computer science such as functional programming, distributed systems, big data, machine learning and other interdisciplinary areas and brings them to a bigger audience.<br><br>
+                    <div class="w-dyn-item">
+                        <div id="Speaker-2" class="speaker">
+                            <div class="speaker-description-box left">
+                                <div class="right-justified">
+                                    <div class="mini-title" style="transition: opacity 1000ms; opacity: 1;">speaker</div>
+                                    <h2>Christopher Meiklejohn</h2>
+                                    <div class="underline crimson"></div>
+                                    <div class="subtitle">Investor at World Wide Fund</div>
+                                    <div><div class="paragraph-box _55-percent">
+                                        <div class="w-richtext">
+                                            <p>More than 25 years of experience assisting parties in interest and their counsel in financial consulting, bankruptcy and complex commercial litigation.&nbsp;</p><p>He provides expert consulting and testimony in cases involving damages assessment, business operations.</p>
+                                        </div>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="speaker-picture-box w-clearfix">
+                                <div class="speaker-picture _2"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-                        The conference will take place the Thursday 26th of April in Buenos Aires, Argentina. The conference will be hosted at the <a href="https://www.cckonex.org/espacios/">Ciudad Cultural Konex (Sarmiento 3131)</a>.<br><br>
-                        On Friday April 27th we will host a few workshops. The place where the workshops will take place still has to be confirmed.<br>
-                        
-                        <p>You can buy tickets via <a href="https://www.eventbrite.com.ar/e/buzzconf-fp-distributed-systems-big-data-and-machine-learning-tickets-41924367913">Buzzconf's Eventbrite page</a></p>
+                <div class="w-dyn-item">
+                    <div id="Speaker-3" class="speaker">
+                        <div class="speaker-picture-box w-clearfix">
+                            <div class="speaker-picture _3"></div>
+                        </div>
+                        <div class="speaker-description-box">
+                            <div class="header-box left-justified">
+                                <div class="mini-title">speaker</div>
+                                <h2>Andrea Leopardi</h2>
+                                <div class="underline crimson"></div>
+                                <div class="subtitle">This is some text inside of a div block.</div>
+                                <div>
+                                    <div class="paragraph-box _55-percent">
+                                        <div class="w-richtext">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-                    <h2>Confirmed speakers</h2>
-                    <ul>
-                        <li>Steve Klabnik, core Rust developer</li>
-                        <li>Andrea Leopardi, core Elixir developer</li>
-                        <li>Christopher Meiklejohn creator of Lasp, a group of Erlang libraries to develop planetary scale applications. He will be talking about distributed systems</li>
-                        <li>Ezequiel Garcia, Linux Kernel developer</li>
-                        <li>Alan Kharsansky and Santiago Buczak work at Satellogic building and operating nanosatellites. They will give a talked called "Beyond Cloud Computing: In-orbit Computing"</li>
-                        <li>Juan Linietsky will be speaking about the development of an open source game engine called Godot</li>
-                        <li>Mauricio Ferreyra, CTO of IncluIT, will talk about blockchain (not about cryptocurrencies) and his real experience using it for solving problems in banks</li>
-                        <li>Diana Maffía, philosophy doctor, will talk about science and gender</li>
-                        <li>Gabriel Claramunt, CTO of a Scala shop called Scalents, will give a talk about functional programmingh, math and type theory called "The (un?) reasonable effectiveness of mathematics in computer programming"</li>
-                        <li>Federico Leven, Lead Data Architect of ReactoData, will give a talk titled "Machine Learning on top of Hadoop and other flavors of Big Data"</li>
-                    </ul>
-                    
-		    <h2>Call for Presentations</h2>
-                        <h4>Areas of particular interest to the conference include:</h4>
-                        <ul>
-                            <li>programming languages design</li>
-                            <li>functional programming</li>
-                            <li>distributed data</li>
-                            <li>machine learning</li>
-                            <li>big data</li>
-                            <li>profiling/debugging</li>
-                            <li>embedded systems</li>
-                            <li>the most modern tools to deal with the world's complexity</li>
-                        </ul>
+                <div class="w-dyn-item">
+                    <div id="Speaker-4" class="speaker">
+                        <div class="speaker-description-box left">
+                            <div class="right-justified">
+                                <div class="mini-title" style="transition: opacity 1000ms; opacity: 1;">speaker</div>
+                                <h2>Ezequiel Garcia</h2>
+                                <div class="underline crimson"></div>
+                                <div class="subtitle">Investor at World Wide Fund</div>
+                                <div><div class="paragraph-box _55-percent">
+                                    <div class="w-richtext">
+                                        <p>More than 25 years of experience assisting parties in interest and their counsel in financial consulting, bankruptcy and complex commercial litigation.&nbsp;</p><p>He provides expert consulting and testimony in cases involving damages assessment, business operations.</p>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="speaker-picture-box w-clearfix">
+                            <div class="speaker-picture _4"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="w-dyn-item">
+                    <div id="Speaker-5" class="speaker">
+                        <div class="speaker-picture-box w-clearfix">
+                            <div class="speaker-picture _5"></div>
+                        </div>
+                        <div class="speaker-description-box">
+                            <div class="header-box left-justified">
+                                <div class="mini-title">speaker</div>
+                                <h2>Juan Linietsky</h2>
+                                <div class="underline crimson"></div>
+                                <div class="subtitle">This is some text inside of a div block.</div>
+                                <div>
+                                    <div class="paragraph-box _55-percent">
+                                        <div class="w-richtext">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="w-dyn-item">
+                    <div id="Speaker-6" class="speaker">
+                        <div class="speaker-description-box left">
+                            <div class="right-justified">
+                                <div class="mini-title" style="transition: opacity 1000ms; opacity: 1;">speaker</div>
+                                <h2>Alan Kharsansky and Santiago Buczak</h2>
+                                <div class="underline crimson"></div>
+                                <div class="subtitle">They work at Satellogic building and operating nanosatellite</div>
+                                <div><div class="paragraph-box _55-percent">
+                                    <div class="w-richtext">
+                                        <p>More than 25 years of experience assisting parties in interest and their counsel in financial consulting, bankruptcy and complex commercial litigation.&nbsp;</p><p>He provides expert consulting and testimony in cases involving damages assessment, business operations.</p>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="speaker-picture-box w-clearfix">
+                            <div class="speaker-picture _6"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="w-dyn-item">
+                    <div id="Speaker-7" class="speaker">
+                        <div class="speaker-picture-box w-clearfix">
+                            <div class="speaker-picture _7"></div>
+                        </div>
+                        <div class="speaker-description-box">
+                            <div class="header-box left-justified">
+                                <div class="mini-title">speaker</div>
+                                <h2>Mauricio Ferreyra</h2>
+                                <div class="underline crimson"></div>
+                                <div class="subtitle">This is some text inside of a div block.</div>
+                                <div>
+                                    <div class="paragraph-box _55-percent">
+                                        <div class="w-richtext">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="w-dyn-item">
+                    <div id="Speaker-8" class="speaker">
+                        <div class="speaker-description-box left">
+                            <div class="right-justified">
+                                <div class="mini-title" style="transition: opacity 1000ms; opacity: 1;">speaker</div>
+                                <h2>Diana Maffia</h2>
+                                <div class="underline crimson"></div>
+                                <div class="subtitle">They work at Satellogic building and operating nanosatellite</div>
+                                <div><div class="paragraph-box _55-percent">
+                                    <div class="w-richtext">
+                                        <p>More than 25 years of experience assisting parties in interest and their counsel in financial consulting, bankruptcy and complex commercial litigation.&nbsp;</p><p>He provides expert consulting and testimony in cases involving damages assessment, business operations.</p>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="speaker-picture-box w-clearfix">
+                            <div class="speaker-picture _8"></div>
+                        </div>
+                    </div>
+                </div>
 
 
-                        <p>To submit your talk proposal please complete <a href="https://goo.gl/forms/CnF3HhcPV7jb2ttZ2">the following form</a>.</p>
+                <div class="w-dyn-item">
+                    <div id="Speaker-7" class="speaker">
+                        <div class="speaker-picture-box w-clearfix">
+                            <div class="speaker-picture"></div>
+                        </div>
+                        <div class="speaker-description-box">
+                            <div class="header-box left-justified">
+                                <div class="mini-title">speaker</div>
+                                <h2>Gabriel Claramunt</h2>
+                                <div class="underline crimson"></div>
+                                <div class="subtitle">This is some text inside of a div block.</div>
+                                <div>
+                                    <div class="paragraph-box _55-percent">
+                                        <div class="w-richtext">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-                        <h3>Format</h3>
+            </div>
+        </div>
 
-                        <p>Each accepted talk will get a 40 minute talk slot</p>
+        <!-- <div id="schedule" data-ix="slide-up-section" class="content-section">
+             <div class="content-wrapper w-container">
+             <div class="header-box">
+             <div class="mini-title">Schedule</div>
+             <h2>The Schedule</h2>
+             <div class="underline crimson"></div>
+             <div class="paragraph-box _80-percent-centered">
+             <p>See the schedule for the BuzzConf and the workshops. Please note that workshops have an additional cost and will be held in a different location.</p>
+             </div>
+             </div>
+             <div class="content-box">
+             <div data-duration-in="300" data-duration-out="100" class="tabs w-tabs">
+             <div class="tabs-menu w-tab-menu">
+             <a data-w-tab="Tab 1" class="tab-link w-inline-block w-tab-link w--current">
+             <div>BuzzConf - Apr 26th</div>
+             </a>
+             <a data-w-tab="Tab 2" class="tab-link w-inline-block w-tab-link">
+             <div>Workshops - Apr 27th</div>
+             </a>
+             </div>
+             <div class="tabs-content w-tab-content">
+             <div data-w-tab="Tab 1" class="tab-pane w-tab-pane w--tab-active">
+             <div>
+             <div class="expand-box-container">
+             <div class="activity-time">
+             <div class="time-text">8:30 AM TO 9:00 AM</div>
+             </div>
+             <div class="activity-description">
+             <p class="paragraph small">Reception and Registration</p>
+             </div>
+             </div>
+             <div class="expand-box-container">
+             <div class="activity-time">
+             <div class="time-text">9:00 AM TO 10:00 AM</div>
+             </div>
+             <div class="activity-description">
+             <p class="paragraph small">Steve Klabnik</p>
+             <p class="paragraph small">Core Rust developer</p>
+             </div>
+             </div>
+             <div class="expand-box-container">
+             <div class="activity-time">
+             <div class="time-text">10:00 AM TO 11:00 AM</div>
+             </div>
+             <div class="activity-description">
+             <p class="paragraph small">Andrea Leopardi</p>
+             <p class="paragraph small">Core Elixir developer</p>
+             </div>
+             </div>
+             <div class="expand-box-container">
+             <div class="activity-time">
+             <div class="time-text">11:00 AM TO 12:00 AM</div>
+             </div>
+             <div class="activity-description">
+             <p class="paragraph small">Christopher Meiklejohn</p>
+             <p class="paragraph small">Creator of Lasp, a group of Erlang libraries to develop planetary scale applications. He will be talking about distributed systems</p>
+             </div>
+             </div>
+             <div class="expand-box-container">
+             <div class="activity-time">
+             <div class="time-text">12:00 AM TO 1:00 PM</div>
+             </div>
+             <div class="activity-description">
+             <p class="paragraph small">Ezequiel Garcia</p>
+             <p class="paragraph small">Linux Kernel developer</p>
+             </div>
+             </div>
+             <div class="expand-box-container">
+             <div class="activity-time">
+             <div class="time-text">1:00 PM TO 2:00 PM</div>
+             </div>
+             <div class="activity-description">
+             <p class="paragraph small">Break</p>
+             </div>
+             </div>
+             <div class="expand-box-container">
+             <div class="activity-time">
+             <div class="time-text">3:00 PM TO 4:00 PM</div>
+             </div>
+             <div class="activity-description">
+             <p class="paragraph small">Juan Linietsky</p>
+             <p class="paragraph small">Talk about the development of an open source game engine called Godot</p>
+             </div>
+             </div>
+             <div class="expand-box-container">
+             <div class="activity-time">
+             <div class="time-text">5:00 PM tO 6:00 PM</div>
+             </div>
+             <div class="activity-description">
+             <p class="paragraph small">&quot;Beyond Cloud Computing: In-orbit Computing&quot;, by Alan Kharsansky and Santiago Bucza</p>
+             <p class="paragraph small">The challenges of building and operating nanosatellites at Satellogic</p>
+             </div>
+             </div>
+             </div>
+             </div>
+             <div data-w-tab="Tab 2" class="tab-pane w-tab-pane">
+             <div>
+             <div class="expand-box-container">
+             <div class="activity-time">
+             <div class="time-text">7:00 AM TO 9:00 AM</div>
+             </div>
+             <div class="activity-description">
+             <p class="paragraph small">Reception and Registration</p>
+             <p class="paragraph small">Etiam tristique, metus pretium rutrum elementum, risus tortor euismod urna, ac porta felis felis vel dui in bibendum justo vel pellentesque accumsan.</p>
+             </div>
+             </div>
+             </div>
+             </div>
+             </div>
+             </div>
+             </div>
+             </div>
+             </div> -->
+        <div id="tickets" data-ix="slide-up-section" class="content-section dark-slate-blue-2">
+            <div class="content-wrapper w-container">
+                <div class="header-box">
+                    <div class="mini-title">tickets</div>
+                    <h2>Ticket Pricing</h2>
+                    <div class="underline crimson"></div>
+                    <div class="paragraph-box _80-percent-centered">
+                        <p>Etiam tristique, metus pretium rutrum elementum, risus tortor euismod urna lentesque accumsan.</p>
+                    </div>
+                </div>
+                <div class="content-box">
+                    <div class="flex-wrapper space-between mobile-center">
+                        <div class="ticket-box">
+                            <div class="price">
+                                <div>
+                                    <div class="sup">$</div>
+                                    <div class="ticket-price">600 ARS</div>
+                                </div>
+                                <div class="ticket-type">
+                                    <div class="subtitle white">BuzzConf</div>
+                                </div>
+                            </div>
+                            <div class="ticket-details">
+                                <div class="ticket-details-item w-clearfix"><img src="images/Check-mark.png" width="19" class="check-mark-icon">
+                                    <div class="ticket-details-text-box">
+                                        <p class="paragraph small">Get entrance to all BuzzConf talks</p>
+                                    </div>
+                                </div>
+                                <div class="ticket-details-item w-clearfix"><img src="images/Check-mark.png" width="19" class="check-mark-icon">
+                                    <div class="ticket-details-text-box">
+                                        <p class="paragraph small">Coffee and buffet</p>
+                                    </div>
+                                </div>
+                                <div class="ticket-details-item w-clearfix"><img src="images/Check-mark.png" width="19" class="check-mark-icon">
+                                    <div class="ticket-details-text-box">
+                                        <p class="paragraph small">Cool merchandise</p>
+                                    </div>
+                                </div>
+                                <div class="ticket-details-item no-bottom-border w-clearfix"><img src="images/Close-X-1.png" width="19" class="check-mark-icon">
+                                    <div class="ticket-details-text-box">
+                                        <p class="paragraph small">Attend workshops held by BuzzConf speakers</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ticket-box">
+                            <div class="price">
+                                <div>
+                                    <div class="sup">$</div>
+                                    <div class="ticket-price">1700ARS</div>
+                                </div>
+                                <div class="ticket-type">
+                                    <div class="subtitle white">BuzzConf + Workshop</div>
+                                </div>
+                            </div>
+                            <div class="ticket-details">
+                                <div class="ticket-details-item w-clearfix"><img src="images/Check-mark.png" width="19" class="check-mark-icon">
+                                    <div class="ticket-details-text-box">
+                                        <p class="paragraph small">Get entrance to all BuzzConf talks</p>
+                                    </div>
+                                </div>
+                                <div class="ticket-details-item w-clearfix"><img src="images/Check-mark.png" width="19" class="check-mark-icon">
+                                    <div class="ticket-details-text-box">
+                                        <p class="paragraph small">Coffee and buffet</p>
+                                    </div>
+                                </div>
+                                <div class="ticket-details-item w-clearfix"><img src="images/Check-mark.png" width="19" class="check-mark-icon">
+                                    <div class="ticket-details-text-box">
+                                        <p class="paragraph small">Cool merchandise</p>
+                                    </div>
+                                </div>
+                                <div class="ticket-details-item no-bottom-border w-clearfix"><img src="images/Check-mark.png" width="19" class="check-mark-icon">
+                                    <div class="ticket-details-text-box">
+                                        <p class="paragraph small">Attend workshops held by BuzzConf speakers</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ticket-box">
+                            <div class="pricing-box">
+                                <div class="price">
+                                    <div>
+                                        <div class="sup">$</div>
+                                        <div class="ticket-price">0 ARS</div>
+                                    </div>
+                                    <div class="ticket-type">
+                                        <div class="subtitle white">No BuzzConf for you</div>
+                                    </div>
+                                </div>
+                                <div class="ticket-details">
+                                    <div class="ticket-details-item w-clearfix"><img src="images/Close-X-1.png" width="19" class="check-mark-icon">
+                                        <div class="ticket-details-text-box">
+                                            <p class="paragraph small">No access to talks</p>
+                                        </div>
+                                    </div>
+                                    <div class="ticket-details-item w-clearfix"><img src="images/Close-X-1.png" width="19" class="check-mark-icon">
+                                        <div class="ticket-details-text-box">
+                                            <p class="paragraph small">No coffee, no buffet</p>
+                                        </div>
+                                    </div>
+                                    <div class="ticket-details-item w-clearfix"><img src="images/Close-X-1.png" width="19" class="check-mark-icon">
+                                        <div class="ticket-details-text-box">
+                                            <p class="paragraph small">No cool merchandise</p>
+                                        </div>
+                                    </div>
+                                    <div class="ticket-details-item no-bottom-border w-clearfix"><img src="images/Close-X-1.png" width="19" class="check-mark-icon">
+                                        <div class="ticket-details-text-box">
+                                            <p class="paragraph small">No workshops</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="button-special-box">
+                    <a href="http://buzzconf.eventbrite.com.ar/" target="_blank" class="button boxed w-inline-blck">
+                        <div>register today</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="venue">
+            <div class="map-box">
 
-                        <h3>Deadlines</h3>
+                <div style="width: 100%; height: 100%">
 
-                        <ul>
-                            <li>Call for presentations closes: Monday, March 5th, 2018</li>
-                            <li>Speakers notified: Monday, March 12th, 2018</li>
-                            <li>Program announced: Wednesday, March 14th, 2018</li>
-                        </ul>
+                    <iframe width="100%" height="100%"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26271.22978301186!2d-58.42818946297856!3d-34.60659598045879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb577e34f9e55%3A0x6dd823092cb367d9!2sCiudad+Cultural+Konex!5e0!3m2!1ses-419!2sar!4v1520795076844" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
 
-                        <h3>Admission and Travel</h3>
-                        <p>Speakers will receive free admission to BuzzConf.<br> We are striving to provide some form of travel grant to assist with the costs of attending. We’ll post details here once a budget is finalized.</p>
-			
-			<h3>Code of Conduct</h3>
-			<p>Please read and follow the <a href="https://github.com/lambdaclass/buzzconf/blob/master/CODE_OF_CONDUCT.md">code of conduct</a>.</p>
-		</div>
-	    </section>
-	</div>
+                <br />
 
-	<!-- Footer -->
-	<footer id="footer" class="wrapper style1">
-	    <div class="inner">
-		<ul class="menu">
-		    <li>&copy; Lambda. All rights reserved.</li>
-		</ul>
-	    </div>
-	</footer>
 
-	<!-- Scripts -->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/jquery.scrollex.min.js"></script>
-	<script src="assets/js/jquery.scrolly.min.js"></script>
-	<script src="assets/js/skel.min.js"></script>
-	<script src="assets/js/util.js"></script>
-	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-	<script src="assets/js/main.js"></script>
 
+
+            </div>
+            <div class="venue-details midnight-blue-3">
+                <div class="floated-right-details-box">
+                    <div class="header-box left-justified">
+                        <div class="mini-title">venue</div>
+                        <h2>Ciudad <br>Cultural<br>Konex</h2>
+                        <div class="underline crimson"></div>
+                        <div>
+                            <div class="paragraph-box">
+                                <p>On April 26th we will be gathering in the Houston Trade Center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="venue-details-item">
+                        <div class="mini-title">address</div>
+                        <div class="more-info-box w-clearfix"><img src="images/Pin-1.png" width="10" class="icon">
+                            <p class="paragraph small">Sarmiento 3131, Ciudad Autónoma de Buenos Aires.</p>
+                        </div>
+                    </div>
+                    <div class="venue-details-item">
+                        <div class="mini-title">more information</div>
+                        <div class="more-info-box bottom-border w-clearfix"><img src="images/Phone.png" width="13" class="icon">
+                            <p class="paragraph small">01.800.123.456</p>
+                        </div>
+                        <div class="more-info-box top-border-line w-clearfix"><img src="images/Email.png" width="13" class="icon">
+                            <p class="paragraph small">federico.carrone@lambdaclass.com</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="Sponsors" data-ix="slide-up-section" class="content-section midnight-blue">
+            <div class="content-wrapper w-container">
+                <div class="sponsors-container">
+                    <div class="mini-title">sponsors</div>
+                    <div class="sponsors-row-flex"><a href="#" class="sponsor w-inline-block"><img src="images/google.png" class="sponsor-logo"></a></div>
+                </div>
+            </div>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js" type="text/javascript" intergrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+        <script src="js/webflow.js" type="text/javascript"></script>
+        <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
     </body>
 </html>
