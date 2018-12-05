@@ -6,7 +6,7 @@
 
 BuzzConf is a conference by developers for developers thats explores the new horizons in computer science such as functional programming, distributed systems, big data, machine learning and other interdisciplinary areas and brings them to a bigger audience.
 
-The conference will take place the **Thursday 13th and Friday 14th of June 2019 in Buenos Aires, Argentina**. The conference will be hosted at the Ciudad Cultural Konex (Sarmiento 3131):
+The conference will take place **Thursday 13th and Friday 14th of June 2019 in Buenos Aires, Argentina**. The conference will be hosted at the Ciudad Cultural Konex (Sarmiento 3131):
 ![konex](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/konex.jpg)
 
 Areas of particular interest to the conference include:
