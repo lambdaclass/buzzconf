@@ -23,7 +23,7 @@ Areas of particular interest to the conference include:
 
 To submit your talk proposal please complete the following form:
 
-https://goo.gl/forms/CnF3HhcPV7jb2ttZ2
+https://goo.gl/forms/TWe0DO7wKRRnAf4E2
 
 ## Initial offer tickets
 
@@ -70,7 +70,7 @@ Las áreas de particular interés para la conferencia incluyen, pero no están l
 
 Para enviar tu propuesta de charla, completá el siguiente formulario:
 
-https://goo.gl/forms/CnF3HhcPV7jb2ttZ2
+https://goo.gl/forms/TWe0DO7wKRRnAf4E2
 
 ## Entradas iniciales
 
