@@ -8,10 +8,8 @@
 
 BuzzConf is a conference by developers for developers thats explores the new horizons in computer science such as functional programming, distributed systems, big data, machine learning and other interdisciplinary areas and brings them to a bigger audience.
 
-The conference will take place the **Thursday 26th of April in Buenos Aires, Argentina**. The conference will be hosted at the Ciudad Cultural Konex (Sarmiento 3131):
+The conference will take place the **Thursday 13th and Friday 14th of June 2019 in Buenos Aires, Argentina**. The conference will be hosted at the Ciudad Cultural Konex (Sarmiento 3131):
 ![konex](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/konex.jpg)
-
-On Friday April 27th we will host a few workshops. The place where the workshops will take place still has to be confirmed.
 
 Areas of particular interest to the conference include:
 - programming languages design
@@ -29,19 +27,17 @@ https://goo.gl/forms/CnF3HhcPV7jb2ttZ2
 
 ## Initial offer tickets
 
-You can buy tickets via [eventbrite](https://buzzconf.eventbrite.com.ar)
+Tickets will be available at [eventbrite](https://buzzconf.eventbrite.com.ar)
 
 ## Format
 
-Each accepted talk will get a 40 minute talk slot.
+Each accepted talk will get a 30 minute talk slot.
 
 ## Deadlines
 
-Call for presentations closes: Monday, March 5st, 2018
+Call for presentations closes: February 1st, 2019
 
-Speakers notified: Monday, March 12th, 2018
-
-Program announced: Wednesday, March 14th, 2018
+Speakers notified and program announced: February 15th, 2019
 
 ## Admission and Travel
 
@@ -59,10 +55,8 @@ Please read and follow the [code of conduct](./CODE_OF_CONDUCT.md) of the confer
 
 BuzzConf es una conferencia hecha por desarrolladores para desarolladores, que explora los nuevos horizontes de la informática tale como la programación funcional, los sistemas distribuidos, big data, machine learning y otras áreas interdisciplinarias y los acerca a un público más amplio.
 
-La conferencia tendrá lugar el **Jueves 26 de Abril en Buenos Aires, Argentina**. La conferencia se realizará en la Ciudad Cultural Konex (Sarmiento 3131):
+La conferencia tendrá lugar el **Jueves 13 y Viernes 14 de Junio 2019 en Buenos Aires, Argentina**. La conferencia se realizará en la Ciudad Cultural Konex (Sarmiento 3131):
 ![konex](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/konex.jpg)
-
-El Viernes 27 de Abril también organizaremos una serie de talleres. El lugar queda por definir.
 
 Las áreas de particular interés para la conferencia incluyen, pero no están limitadas a:
 - diseño de lenguajes de programación
@@ -80,19 +74,16 @@ https://goo.gl/forms/CnF3HhcPV7jb2ttZ2
 
 ## Entradas iniciales
 
-Podes comprar las entradas a través de [eventbrite](https://www.eventbrite.com.ar/e/buzzconf-fp-distributed-systems-big-data-and-machine-learning-tickets-41924367913).
+Vas a poder comprar las entradas a través de [eventbrite](https://www.eventbrite.com.ar/e/buzzconf-fp-distributed-systems-big-data-and-machine-learning-tickets-41924367913).
 
 ## Formato
 
-Cada charla aceptada deberá durar 40 minutos.
+Cada charla aceptada deberá durar 30 minutos.
 
 ## Plazos
 
-La convocatoria para presentaciones cierra: lunes, 5 de marzo de 2018
-
-Los oradores seleccionados serán notificados: lunes, 12 de marzo de 2018
-
-El programa será anunciado: miércoles, 14 de marzo de 2018
+La convocatoria para presentaciones cierra: 1 de Febrero 2019
+Los oradores seleccionados serán notificados y el programa será: 15 de Febrero 2019
 
 ## Admisión y viajes
 
