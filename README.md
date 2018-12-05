@@ -1,10 +1,8 @@
-# BuzzConf
+# BuzzConf Call for Presentations
 ![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/poster.png)
 
 - [English](#call-for-presentations)
 - [Spanish](#convocatoria-para-la-presentación-de-charlas)
-
-## Call for Presentations
 
 BuzzConf is a conference by developers for developers thats explores the new horizons in computer science such as functional programming, distributed systems, big data, machine learning and other interdisciplinary areas and brings them to a bigger audience.
 
