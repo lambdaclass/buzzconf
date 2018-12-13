@@ -5,6 +5,7 @@
 - [Spanish](#convocatoria-para-la-presentación-de-charlas)
 
 **To submit your talk proposal please complete the following form:**
+
 https://goo.gl/forms/TWe0DO7wKRRnAf4E2
 
 BuzzConf is a conference by developers for developers thats explores the new horizons in computer science such as functional programming, distributed systems, big data, machine learning and other interdisciplinary areas and brings them to a bigger audience.
@@ -53,6 +54,7 @@ Please read and follow the [code of conduct](./CODE_OF_CONDUCT.md) of the confer
 ## Convocatoria para la presentación de charlas
 
 **Para enviar tu propuesta de charla, completá el siguiente formulario:**
+
 https://goo.gl/forms/TWe0DO7wKRRnAf4E2
 
 BuzzConf es una conferencia hecha por desarrolladores para desarolladores, que explora los nuevos horizontes de la informática tale como la programación funcional, los sistemas distribuidos, big data, machine learning y otras áreas interdisciplinarias y los acerca a un público más amplio.
