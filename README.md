@@ -27,7 +27,7 @@ Areas of particular interest to the conference include:
 
 ## Initial offer tickets
 
-Tickets will be available at [eventbrite](https://buzzconf.eventbrite.com.ar)
+Tickets will be available at [eventbrite](https://buzzconf2019.eventbrite.com.ar/)
 
 ## Format
 
@@ -74,7 +74,7 @@ Las áreas de particular interés para la conferencia incluyen, pero no están l
 
 ## Entradas iniciales
 
-Vas a poder comprar las entradas a través de [eventbrite](https://www.eventbrite.com.ar/e/buzzconf-fp-distributed-systems-big-data-and-machine-learning-tickets-41924367913).
+Vas a poder comprar las entradas a través de [eventbrite](hhttps://buzzconf2019.eventbrite.com.ar/).
 
 ## Formato
 
