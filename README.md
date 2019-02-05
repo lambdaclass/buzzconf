@@ -35,9 +35,9 @@ Each accepted talk will get a 30 minute talk slot.
 
 ## Deadlines
 
-Call for presentations closes: February 1st, 2019
+Call for presentations closes: March 1st, 2019
 
-Speakers notified and program announced: February 15th, 2019
+Speakers notified and program announced: March 15th, 2019
 
 ## Admission and Travel
 
@@ -82,8 +82,8 @@ Cada charla aceptada deberá durar 30 minutos.
 
 ## Plazos
 
-La convocatoria para presentaciones cierra: 1 de Febrero 2019
-Los oradores seleccionados serán notificados y el programa será: 15 de Febrero 2019
+La convocatoria para presentaciones cierra: 1 de Marzo 2019
+Los oradores seleccionados serán notificados y el programa será: 15 de Marzo 2019
 
 ## Admisión y viajes
 
