@@ -24,10 +24,15 @@ Areas of particular interest to the conference include:
 - the most modern tools to deal with the world's complexity
 
 
+## Confirmed Speakers
+- Philip Wadler
+- Phil Hagelberg
+- Johanna Faliero
+- Osvaldo Martin
 
 ## Initial offer tickets
 
-Tickets will be available at [eventbrite](https://buzzconf2019.eventbrite.com.ar/)
+Tickets are available at [eventbrite](https://buzzconf2019.eventbrite.com.ar/)
 
 ## Format
 
