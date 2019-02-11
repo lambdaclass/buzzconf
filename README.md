@@ -26,9 +26,14 @@ Areas of particular interest to the conference include:
 
 ## Confirmed Speakers
 - Philip Wadler
+
+![Philip Wadler](https://cdn.evbuc.com/eventlogos/238610471/philipwadlerbuzzconf.png)
 - Phil Hagelberg
+![Phil Hagelberg](https://cdn.evbuc.com/eventlogos/238610471/philhagelbergbuzzconf.png)
 - Johanna Faliero
+![Johanna Faliero](https://cdn.evbuc.com/eventlogos/238610471/johannacaterinafalierobuzzconf.png)
 - Osvaldo Martin
+![Osvaldo Martin](https://cdn.evbuc.com/eventlogos/238610471/osvaldomartinbuzzconf.png)
 
 ## Initial offer tickets
 
