@@ -1,33 +1,714 @@
-<html>
-    <head>
-        <meta name="viewport" content="width=device-width; height=device-height;">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" integrity="sha384-PDle/QlgIONtM1aqA2Qemk5gPOE7wFq8+Em+G/hmo5Iq0CCmYZLv3fVRDJ4MMwEA" crossorigin="anonymous">
 
-	<title>BuzzConf BA18 - functional programming, distributed systems, big data, artificial intelligence/machine learning and blockchain</title>
-	<meta charset="utf-8" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>BuzzConf</title>
+  </head>
+  <body>
+      <div class="awesome-bg">
+    <section id="hero" class="">
+      <div class="container">
+        <h1 class="big-text">BUZZ CONF</h1>
+        <p class="py-5">
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem, ipsum dolor. <br />
+          Lorem Ipsum has been the industry's standard dummy text.
+        </p>
 
-        <meta property="og:title" content="BuzzConf - functional programming, distributed systems, big data and machine learning">
-        <meta property="og:description" content="BuzzConf - functional programming, distributed systems, big data, artificial intelligence/machine learning and blockchain">
-        <meta property="og:image" content="https://raw.githubusercontent.com/lambdaclass/buzzconf/master/poster.png">
-        <meta property="og:url" content="http://buzzconf.org">
-
-        <meta name="description" content="BuzzConf - functional programming, distributed systems, big data and machine learning">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image:src" content="https://raw.githubusercontent.com/lambdaclass/buzzconf/master/poster.png">
-    </head>
-    <body style="margin: 0px;">
-        <div style="background: black; text-align: center; color: white; font-size: 35px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; text-decoration: none;">
-            26th April -
-            <a href="https://www.google.com.ar/maps/place/Ciudad+Cultural+Konex/@-34.606596,-58.4128687,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb577e34f9e55:0x6dd823092cb367d9!8m2!3d-34.606596!4d-58.41068" style="color: white; font-size: 35px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; text-decoration: none;"> Konex (Sarmiento 3131)</a>
-            -
-            <a href="http://buzzconf.eventbrite.com.ar/" style="color: white; font-size: 35px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; text-decoration: none;">BUY YOUR TICKETS!</a>
+        <div class="small-cta">
+          <span>26 APRIL - 29 APRIL</span>
+          <a href="#"
+            >RESERVE YOUR SPOT
+            <svg class="icon icon-right-arrow" aria-hidden="false" role="img">
+              <use
+                href="#icon-right-arrow"
+                xlink:href="#icon-right-arrow"
+              ></use>
+            </svg>
+          </a>
         </div>
-        <img src="./buzzconf.jpg" alt="./buzzconf.jpg" style="width: 100%;">
-
-        <div style="background: black; text-align: center; color: white; font-size: 35px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; text-decoration: none;">
-            26th April -
-            <a href="https://www.google.com.ar/maps/place/Ciudad+Cultural+Konex/@-34.606596,-58.4128687,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb577e34f9e55:0x6dd823092cb367d9!8m2!3d-34.606596!4d-58.41068" style="color: white; font-size: 35px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; text-decoration: none;"> Konex (Sarmiento 3131)</a>
-            -
-            <a href="http://buzzconf.eventbrite.com.ar/" style="color: white; font-size: 35px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; text-decoration: none;">BUY YOUR TICKETS!</a>
+      </div>
+      <!--<div id="blur"></div>-->
+    </section>
+    
+    <section class="section-padding" id="speaker">
+      <div class="container">
+        <h1 class="section-title">Our Speaker</h1>
+        <div class="speakers-list row justify-content-center">
+          
+          <div class="speaker col-md-4 col-6">
+            <div class="avatar">
+              <img src="./images/speaker/Phil-Hagelberg.png" alt="Phil Hagelberg" />
+              
+            </div>
+            <h3 class="name">Phil Hagelberg</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
+          <div class="speaker col-md-4 col-6">
+             <div class="avatar">
+            <img src="./images/speaker/adam-ralph.png" alt="Adam Ralph">
+            </div>
+            <h3 class="name">Philip Wadler</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
+          <div class="speaker col-md-4 col-6">
+            <div class="avatar">
+            <img src="./images/speaker/adam-ralph.png" alt="Adam Ralph">
+            </div>
+            <h3 class="name">Adam Ralph</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
+          <div class="speaker col-md-4 col-6">
+            <div class="avatar">
+            <img src="./images/speaker/adam-ralph.png" alt="Adam Ralph">
+            </div>
+            <h3 class="name">Adam Ralph</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
+          <div class="speaker col-md-4 col-6">
+             <div class="avatar">
+            <img src="./images/speaker/adam-ralph.png" alt="Adam Ralph">
+            </div>
+            <h3 class="name">Adam Ralph</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
+          <div class="speaker col-md-4 col-6 text-center show-all-wrapper">
+            <h3 class="count">+7</h3>
+            <p>Developers</p>
+            </br>
+            <a href="#" class="conf-btn show-all-dev">View All</a>
+          </div>
+          <div class="speaker col-md-4 col-6">
+            <div class="avatar">
+              <img src="./images/speaker/adam-ralph.png" alt="Adam Ralph">
+              
+            </div>
+            <h3 class="name">Adam Ralph</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
+          <div class="speaker col-md-4 col-6">
+               <div class="avatar">
+            <img src="./images/speaker/adam-ralph.png" alt="Adam Ralph">
+            </div>
+            <h3 class="name">Adam Ralph</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
+          <div class="speaker col-md-4 col-6">
+               <div class="avatar">
+            <img src="./images/speaker/adam-ralph.png" alt="Adam Ralph">
+            </div>
+            <h3 class="name">Adam Ralph</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
+          <div class="speaker col-md-4 col-6">
+             <div class="avatar">
+            <img src="./images/speaker/adam-ralph.png" alt="Adam Ralph">
+            </div>
+            <h3 class="name">Adam Ralph</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
+          <div class="speaker col-md-4 col-6">
+            <div class="avatar">
+            <img src="./images/speaker/adam-ralph.png" alt="Adam Ralph">
+            </div>
+            <h3 class="name">Adam Ralph</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
+          <div class="speaker col-md-4 col-6">
+             <div class="avatar">
+            <img src="./images/speaker/adam-ralph.png" alt="Adam Ralph">
+            </div>
+            <h3 class="name">Adam Ralph</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
+          <div class="speaker col-md-4 col-6">
+             <div class="avatar">
+            <img src="./images/speaker/adam-ralph.png" alt="Adam Ralph">
+            </div>
+            <h3 class="name">Adam Ralph</h3>
+            <p class="designation">Software Plumber at Team Oreo</p>
+            <p class="sort-bio">
+              Breaking Down Your Build: Architectural Patterns For A More
+              Efficient Pipeline
+            </p>
+          </div>
         </div>
-    </body>
+      </div>
+    </section>
+    </div>
+
+    <section class="section-padding" id="call-to-action">
+      <div class="container text-center">
+        <h3>Get Ticket Now</h3>
+        <p class="py-4">
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry.<br />
+          Lorem Ipsum has been the industry's standard dummy text.
+        </p>
+        <a class="conf-btn" href="#"
+          >RESERVE YOUR SPOT
+          <svg class="icon icon-right-arrow" aria-hidden="false" role="img">
+            <use href="#icon-right-arrow" xlink:href="#icon-right-arrow"></use>
+          </svg>
+        </a>
+      </div>
+    </section>
+
+    <section class="section-padding" id="schedule">
+      <div class="day-one">
+
+      
+      <div class="container">
+        <div class="section-title offset-md-1 day">DAY 01</div>
+        <div class="row">
+          <div class="col-md-8 offset-md-4">
+              <div class="accordion" id="accordionOne">
+
+                  <div>
+                    <button
+                      class="agenda-title collapsed"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseOne"
+                      aria-expanded="true"
+                      aria-controls="collapseOne"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseOne"
+                      class="collapse agenda-desc show"
+                      aria-labelledby="headingOne"
+                      data-parent="#accordionOne"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseTwo"
+                      aria-expanded="false"
+                      aria-controls="collapseTwo"
+                      
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseTwo"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingTwo"
+                      data-parent="#accordionOne"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseThree"
+                      aria-expanded="false"
+                      aria-controls="collapseThree"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseThree"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingThree"
+                      data-parent="#accordionOne"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseFour"
+                      aria-expanded="false"
+                      aria-controls="collapseFour"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseFour"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingFour"
+                      data-parent="#accordionOne"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseFive"
+                      aria-expanded="false"
+                      aria-controls="collapseFive"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseFive"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingFive"
+                      data-parent="#accordionOne"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseSix"
+                      aria-expanded="false"
+                      aria-controls="collapseSix"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseSix"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingSix"
+                      data-parent="#accordionOne"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseSeven"
+                      aria-expanded="false"
+                      aria-controls="collapseSeven"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseSeven"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingSeven"
+                      data-parent="#accordionOne"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="day-two">
+      <div class="container">
+        <div class="section-title offset-md-1 day">DAY 02</div>
+        <div class="row">
+          <div class="col-md-8 offset-md-1">
+              <div class="accordion" id="accordionTwo">
+
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseOne"
+                      aria-expanded="false"
+                      aria-controls="collapseOne"
+                    >
+                    Insecure Transit - Microservice Security Insecure
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseOne"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingOne"
+                      data-parent="#accordionTwo"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseTwo"
+                      aria-expanded="false"
+                      aria-controls="collapseTwo"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseTwo"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingTwo"
+                      data-parent="#accordionTwo"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseThree"
+                      aria-expanded="false"
+                      aria-controls="collapseThree"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseThree"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingThree"
+                      data-parent="#accordionTwo"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseFour"
+                      aria-expanded="false"
+                      aria-controls="collapseFour"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseFour"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingFour"
+                      data-parent="#accordionTwo"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseFive"
+                      aria-expanded="false"
+                      aria-controls="collapseFive"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseFive"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingFive"
+                      data-parent="#accordionTwo"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseSix"
+                      aria-expanded="false"
+                      aria-controls="collapseSix"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseSix"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingSix"
+                      data-parent="#accordionTwo"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  <div>
+                    <button
+                      class="agenda-title"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#collapseSeven"
+                      aria-expanded="false"
+                      aria-controls="collapseSeven"
+                    >
+                    Insecure Transit - Microservice Security
+                    <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
+		<img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
+                    </button>
+                
+                    <div
+                      id="collapseSeven"
+                      class="collapse agenda-desc"
+                      aria-labelledby="headingSeven"
+                      data-parent="#accordionTwo"
+                    >
+                      <p><span>Speaker: Ahmed Nayef</span><span style="margin-left:10px">Time: 09:30 PM</span></p>
+                      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, veritatis.</p>
+                    </div>
+                  </div>
+                  
+                </div>
+            </div>
+          </div>
+      </div>
+    </div>
+    </section>
+
+    <section class="section-padding" id="halls">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-sm-3 hall">
+            <img src="./images/map.png" alt="" />
+            <div class="title">BuzzConf</div>
+            <div class="address">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Quibusdam, mollitia?
+            </div>
+          </div>
+          <div class="col-sm-3 hall">
+            <img src="./images/map.png" alt="" />
+            <div class="title">BuzzConf</div>
+            <div class="address">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Quibusdam, mollitia?
+            </div>
+          </div>
+          <div class="col-sm-3 hall">
+            <img src="./images/map.png" alt="" />
+            <div class="title">BuzzConf</div>
+            <div class="address">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Quibusdam, mollitia?
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-padding" id="sponsors">
+      <div class="container">
+        <div class="section-title">Our Sponsors</div>
+
+        <div class="gold-sponsor mb-4">
+          <h3>Gold Sponsor</h3>
+          <div class="row py-4">
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/gold.png" alt="" />
+            </div>
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/gold.png" alt="" />
+            </div>
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/gold.png" alt="" />
+            </div>
+          </div>
+        </div>
+
+        <div class="silver-sponsor my-5">
+          <h3>Silver Sponsor</h3>
+          <div class="row py-4">
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/silver.png" alt="" />
+            </div>
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/silver.png" alt="" />
+            </div>
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/silver.png" alt="" />
+            </div>
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/silver.png" alt="" />
+            </div>
+          </div>
+        </div>
+
+        <div class="bronze-sponsor">
+          <h3>Bronze Sponsor</h3>
+          <div class="row py-4">
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/bronze.png" alt="" />
+            </div>
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/bronze.png" alt="" />
+            </div>
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/bronze.png" alt="" />
+            </div>
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/bronze.png" alt="" />
+            </div>
+            <div class="col single-sponsor">
+              <img src="./images/sponsors/bronze.png" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="fsection-padding">
+      <div class="container">
+        <div class="newsletter">
+          <h1>Subscribe Newsletter</h1>
+
+          <form action="/">
+            <input
+              class="col-7 col-md-5"
+              type="email"
+              placeholder="Your Email Address"
+              required
+            />
+            <input type="submit" value="Subscribe" class="conf-btn col-3" />
+          </form>
+        </div>
+
+        <div class="copyright">
+          <p>© 2019. Buzzconf. All Right Reserved</p>
+        </div>
+      </div>
+    </footer>
+    <svg xmlns="http://www.w3.org/2000/svg" id="sprite">
+      <symbol id="icon-right-arrow" width="38" height="12">
+        <defs>
+          <path
+            id="a"
+            d="M1154.643 703.98l.927.848 5.43-5.4v-.848l-5.43-5.4-.884.848 4.287 4.376H1123v1.2h35.973z"
+          />
+        </defs>
+        <use fill="#fff" xlink:href="#a" transform="translate(-1123 -693)" />
+      </symbol>
+    </svg>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/js/bootstrap.min.js" integrity="sha384-7aThvCh9TypR7fIc2HV4O/nFMVCBwyIUKL8XCtKE+8xgCgl/PQGuFsvShjr74PBp" crossorigin="anonymous"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function(event) {
+          $('.speaker:nth-child(n+7)').hide();
+          $('.show-all-dev').on("click", function (e) {
+            e.preventDefault();
+            $('.show-all-wrapper').hide();
+            $('.speaker:nth-child(n+7)').show(4000);
+          });
+        });
+    
+    </script>
+  </body>
 </html>
