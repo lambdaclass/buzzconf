@@ -1,5 +1,5 @@
 # BuzzConf Call for Presentations
-![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/poster.png)
+![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/banner.png)
 
 - [English](#call-for-presentations)
 - [Spanish](#convocatoria-para-la-presentación-de-charlas)
