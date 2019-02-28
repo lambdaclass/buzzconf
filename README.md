@@ -8,23 +8,22 @@
 
 https://goo.gl/forms/TWe0DO7wKRRnAf4E2
 
-BuzzConf is a conference by developers for developers thats explores the new horizons in computer science such as functional programming, distributed systems, big data, machine learning and other interdisciplinary areas and brings them to a bigger audience.
+1. About:
 
-The conference will take place **Thursday 13th and Friday 14th of June 2019 in Buenos Aires, Argentina**. The conference will be hosted at the Ciudad Cultural Konex (Sarmiento 3131):
-![konex](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/konex.jpg)
+BuzzConf is a conference by developers for developers thats brings the new horizons in computer science to a bigger audience.
 
-Areas of particular interest to the conference include:
-- programming languages design
+Topics of interest include:
 - functional programming
-- distributed data
-- machine learning
-- big data
-- profiling/debugging
+- distributed systems
 - embedded systems
-- the most modern tools to deal with the world's complexity
+- big data
+- artificial intelligence
+- machine learning
+- profiling/debugging
+- programming languages design
 
 
-## Confirmed Speakers
+## Speakers
 - Philip Wadler
 
 ![Philip Wadler](https://cdn.evbuc.com/eventlogos/238610471/philipwadlerbuzzconf.png)
@@ -92,8 +91,12 @@ Cada charla aceptada deberá durar 30 minutos.
 
 ## Plazos
 
-La convocatoria para presentaciones cierra: 1 de Marzo 2019
-Los oradores seleccionados serán notificados y el programa será: 15 de Marzo 2019
+La primera convocatoria para presentaciones cierra: 1 de Marzo 2019
+Los oradores seleccionados serán notificados: 15 de Marzo 2019
+
+La segunda convocatoria para presentaciones cierra: 30 de Abril 2019
+Los oradores seleccionados serán notificados: 15 de Mayo 2019
+
 
 ## Admisión y viajes
 
