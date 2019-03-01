@@ -8,8 +8,6 @@
 
 https://goo.gl/forms/TWe0DO7wKRRnAf4E2
 
-1. About:
-
 BuzzConf is a conference by developers for developers thats brings the new horizons in computer science to a bigger audience.
 
 Topics of interest include:
@@ -83,7 +81,7 @@ Las áreas de particular interés para la conferencia incluyen, pero no están l
 
 ## Entradas iniciales
 
-Vas a poder comprar las entradas a través de [eventbrite](hhttps://buzzconf2019.eventbrite.com.ar/).
+Vas a poder comprar las entradas a través de [eventbrite](https://buzzconf2019.eventbrite.com.ar/).
 
 ## Formato
 
@@ -94,9 +92,8 @@ Cada charla aceptada deberá durar 30 minutos.
 La primera convocatoria para presentaciones cierra: 1 de Marzo 2019
 Los oradores seleccionados serán notificados: 15 de Marzo 2019
 
-La segunda convocatoria para presentaciones cierra: 30 de Abril 2019
-Los oradores seleccionados serán notificados: 15 de Mayo 2019
-
+La primera convocatoria para presentaciones cierra: 1 de Abril 2019
+Los oradores seleccionados serán notificados: 15 de Abril 2019
 
 ## Admisión y viajes
 
