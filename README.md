@@ -92,7 +92,7 @@ Cada charla aceptada deberá durar 30 minutos.
 La primera convocatoria para presentaciones cierra: 1 de Marzo 2019
 Los oradores seleccionados serán notificados: 15 de Marzo 2019
 
-La primera convocatoria para presentaciones cierra: 1 de Abril 2019
+La segunda convocatoria para presentaciones cierra: 1 de Abril 2019
 Los oradores seleccionados serán notificados: 15 de Abril 2019
 
 ## Admisión y viajes
