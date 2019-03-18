@@ -40,7 +40,7 @@
 - Imprimir entradas si se hacen en papel
 - Ver el disenio del espacio donde se va a desarrollar la conf, planificar donde van los banners, los stands, la mesa de inscripciones, la comida, etc.
 - Hacer descuentos y sorteos de entradas si sobra lugar
-Aumentar la difusión porque hay mucha gente que espera a estar muy cerca de la fecha para anotarse. Mandar mail a la mailing list, considerar publicidad paga.
+- Aumentar la difusión porque hay mucha gente que espera a estar muy cerca de la fecha para anotarse. Mandar mail a la mailing list, considerar publicidad paga.
 - Se pueden publicar las slides anticipadamente para que el público las conozca
 - Armar horarios de la conferencia, publicar online e informar a los speakers a qué hora es su charla.
 
