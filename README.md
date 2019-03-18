@@ -1,3 +1,7 @@
+# Cómo organizar una conferencia
+https://github.com/lambdaclass/buzzconf/blob/master/C%C3%B3mo%20organizar%20una%20conferencia.md
+
+
 # BuzzConf Call for Presentations
 ![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/banner.png)
 
@@ -21,44 +25,31 @@ Topics of interest include:
 - programming languages design
 
 
-## Speakers
+# Speakers
 - Philip Wadler
-
 ![Philip Wadler](https://cdn.evbuc.com/eventlogos/238610471/philipwadlerbuzzconf.png)
+
 - Phil Hagelberg
 ![Phil Hagelberg](https://cdn.evbuc.com/eventlogos/238610471/philhagelbergbuzzconf.png)
+
 - Johanna Faliero
 ![Johanna Faliero](https://cdn.evbuc.com/eventlogos/238610471/johannacaterinafalierobuzzconf.png)
+
 - Osvaldo Martin
 ![Osvaldo Martin](https://cdn.evbuc.com/eventlogos/238610471/osvaldomartinbuzzconf.png)
 
-## Initial offer tickets
+# Tickets
 
 Tickets are available at [eventbrite](https://buzzconf2019.eventbrite.com.ar/)
 
-## Format
-
-Each accepted talk will get a 30 minute talk slot.
-
-## Deadlines
-
-Call for presentations closes: March 1st, 2019
-
-Speakers notified and program announced: March 15th, 2019
-
-## Admission and Travel
-
-Speakers will receive free admission to BuzzConf.
-We are striving to provide some form of travel grant to assist with the costs of attending. We’ll post details here once a budget is finalized.
-
-## Code of Conduct
+# Code of Conduct
 
 Please read and follow the [code of conduct](./CODE_OF_CONDUCT.md) of the conference.
  
 
 ---
 
-## Convocatoria para la presentación de charlas
+# Convocatoria para la presentación de charlas
 
 **Para enviar tu propuesta de charla, completá el siguiente formulario:**
 
@@ -79,28 +70,11 @@ Las áreas de particular interés para la conferencia incluyen, pero no están l
 - sistemas embebidos
 - herramientas modernas para hacer frente a la complejidad del mundo
 
-## Entradas iniciales
+# Entradas
 
-Vas a poder comprar las entradas a través de [eventbrite](https://buzzconf2019.eventbrite.com.ar/).
+Entradas a la venta en [eventbrite](https://buzzconf2019.eventbrite.com.ar/).
 
-## Formato
-
-Cada charla aceptada deberá durar 30 minutos.
-
-## Plazos
-
-La primera convocatoria para presentaciones cierra: 1 de Marzo 2019
-Los oradores seleccionados serán notificados: 15 de Marzo 2019
-
-La segunda convocatoria para presentaciones cierra: 1 de Abril 2019
-Los oradores seleccionados serán notificados: 15 de Abril 2019
-
-## Admisión y viajes
-
-Los oradores recibirán entrada gratuita a BuzzConf.
-
-Nos estamos esforzando para proporcionar alguna forma de subvención para ayudar con los costos de asistencia. Publicaremos los detalles aquí una vez que se finalice el presupuesto.
-
-## Código de conducta
+# Código de conducta
 
 Por favor lea y siga el [código de conducta](./CODE_OF_CONDUCT.md) de la conferencia.
+
