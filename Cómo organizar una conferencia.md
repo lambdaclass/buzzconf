@@ -51,12 +51,20 @@
 - Avisar al catering cuánta gente eligió menú especial
 - Chequear con los speakers que todo está bien
 
-### 🐲 El día de la conf
+### 🐲 Justo antes de la conf
 - Antes de que empiece todo probar el livestreaming si lo hay
 - Probar equipos de sonido
-- Publicar algunas fotos y actualizaciones durante la charla para la gente que no pudo venir.
+
+### Durante la conf
+- Publicar fotos y actualizaciones durante la charla para la gente que no pudo venir.
+- Prestar atención al bienestar de los asistentes y al cumplimiento del Code of Conduct.
+- Una persona controla la entrada en todo momento.
 
 ### 🌅 Después de la conf
 - Enviar una encuesta a los asistentes que dejaron mail para ver en qué podemos mejorar
 - Publicar los videos y fotos del evento
 - Enviar agradecimientos a los speakers
+
+---
+
+Inspirado en: https://github.com/rust-community/events-team/blob/master/guidelines/timeline.md
