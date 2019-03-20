@@ -1,7 +1,3 @@
-# Cómo organizar una conferencia
-[Una guía paso a paso](https://github.com/lambdaclass/buzzconf/blob/master/C%C3%B3mo%20organizar%20una%20conferencia.md)
-
-
 # BuzzConf Call for Presentations
 ![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/banner.png)
 
