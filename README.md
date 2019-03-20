@@ -26,17 +26,26 @@ Topics of interest include:
 
 
 # Speakers
-- Philip Wadler
-![Philip Wadler](https://cdn.evbuc.com/eventlogos/238610471/philipwadlerbuzzconf.png)
+## Philip Wadler
+![Philip Wadler](./images/speakers/small/pwadler.png)
 
-- Phil Hagelberg
-![Phil Hagelberg](https://cdn.evbuc.com/eventlogos/238610471/philhagelbergbuzzconf.png)
+## Phil Hagelberg
+![Phil Hagelberg](./images/speakers/small/phagelberg.png)
 
-- Johanna Faliero
-![Johanna Faliero](https://cdn.evbuc.com/eventlogos/238610471/johannacaterinafalierobuzzconf.png)
+## Simon Thompson
+![Simon Thompson](./images/speakers/small/sthompson.png)
 
-- Osvaldo Martin
-![Osvaldo Martin](https://cdn.evbuc.com/eventlogos/238610471/osvaldomartinbuzzconf.png)
+## Karen Serfaty
+![Karen Serfaty](./images/speakers/small/kserfaty.png)
+
+## Osvaldo Martin
+![Osvaldo Martin](./images/speakers/small/omartin.png)
+
+## Johanna Faliero
+![Johanna Faliero](./images/speakers/small/jfaliero.png)
+
+## Sebastián Waisbrot
+![Sebastián Waisbrot](./images/speakers/small/swaisbrot.png)
 
 # Tickets
 
