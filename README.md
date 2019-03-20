@@ -1,26 +1,3 @@
-# BuzzConf Call for Presentations
-![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/banner.png)
-
-- [English](#call-for-presentations)
-- [Spanish](#convocatoria-para-la-presentación-de-charlas)
-
-**To submit your talk proposal please complete the following form:**
-
-https://goo.gl/forms/TWe0DO7wKRRnAf4E2
-
-BuzzConf is a conference by developers for developers thats brings the new horizons in computer science to a bigger audience.
-
-Topics of interest include:
-- functional programming
-- distributed systems
-- embedded systems
-- big data
-- artificial intelligence
-- machine learning
-- profiling/debugging
-- programming languages design
-
-
 # Speakers
 ## Philip Wadler
 ![Philip Wadler](./images/speakers/small/pwadler.png)
@@ -71,6 +48,29 @@ _Machine Learning_
 
 __Desmitificando machine learning__
 
+
+# Call for Presentations
+![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/banner.png)
+
+- [English](#call-for-presentations)
+- [Spanish](#convocatoria-para-la-presentación-de-charlas)
+
+**To submit your talk proposal please complete the following form:**
+
+https://goo.gl/forms/TWe0DO7wKRRnAf4E2
+
+BuzzConf is a conference by developers for developers thats brings the new horizons in computer science to a bigger audience.
+
+Topics of interest include:
+- functional programming
+- distributed systems
+- embedded systems
+- big data
+- artificial intelligence
+- machine learning
+- profiling/debugging
+- programming languages design
+
 # Tickets
 
 Tickets are available at [eventbrite](https://buzzconf2019.eventbrite.com.ar/)
@@ -90,8 +90,7 @@ https://goo.gl/forms/TWe0DO7wKRRnAf4E2
 
 BuzzConf es una conferencia hecha por desarrolladores para desarolladores, que explora los nuevos horizontes de la informática tale como la programación funcional, los sistemas distribuidos, big data, machine learning y otras áreas interdisciplinarias y los acerca a un público más amplio.
 
-La conferencia tendrá lugar el **Jueves 13 y Viernes 14 de Junio 2019 en Buenos Aires, Argentina**. La conferencia se realizará en la Ciudad Cultural Konex (Sarmiento 3131):
-![konex](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/konex.jpg)
+La conferencia tendrá lugar el **Jueves 13 y Viernes 14 de Junio 2019 en Buenos Aires, Argentina**. La conferencia se realizará en la Ciudad Cultural Konex (Sarmiento 3131)
 
 Las áreas de particular interés para la conferencia incluyen, pero no están limitadas a:
 - diseño de lenguajes de programación
