@@ -29,23 +29,51 @@ Topics of interest include:
 ## Philip Wadler
 ![Philip Wadler](./images/speakers/small/pwadler.png)
 
+_Keynote Talk + Programming Languages_
+
+__Quoted Domain Specific Languages__ 
+
 ## Phil Hagelberg
 ![Phil Hagelberg](./images/speakers/small/phagelberg.png)
+
+_Functional Programming + Programming Languages + Embedded systems_
+
+__A Lisp on NodeMCU: microcontroller dev without sacrificing interactivity__ 
 
 ## Simon Thompson
 ![Simon Thompson](./images/speakers/small/sthompson.png)
 
+_Keynote Talk + Functional Programming_
+
+__Title To Be Announced__
+
 ## Karen Serfaty
 ![Karen Serfaty](./images/speakers/small/kserfaty.png)
+
+_Machine Learning_
+
+__How to recognize good teaching practices using machine learning__
 
 ## Osvaldo Martin
 ![Osvaldo Martin](./images/speakers/small/omartin.png)
 
+_Probabilistic Programming_
+
+__Probabilistic programming with PyMC and ArviZ__ 
+
 ## Johanna Faliero
 ![Johanna Faliero](./images/speakers/small/jfaliero.png)
 
+_Data Security_
+
+__Data Security Chimaera: riesgos y enigmas que nos depara el tratamiento de nuestros datos__
+
 ## Sebastián Waisbrot
 ![Sebastián Waisbrot](./images/speakers/small/swaisbrot.png)
+
+_Machine Learning_
+
+__Desmitificando machine learning__
 
 # Tickets
 
