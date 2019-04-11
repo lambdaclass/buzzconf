@@ -49,7 +49,7 @@ _Machine Learning_
 __Desmitificando machine learning__
 
 ## Leandro Ostera
-![Leandro Ostera](./images/speakers/small/lostera.jpg)
+![Leandro Ostera](./images/speakers/small/ostera.jpg)
 
 _Programming Languages_
 
