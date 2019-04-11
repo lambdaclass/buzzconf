@@ -48,6 +48,13 @@ _Machine Learning_
 
 __Desmitificando machine learning__
 
+## Leandro Ostera
+![Leandro Ostera](./images/speakers/small/lostera.jpg)
+
+_Programming Languages_
+
+__Building Web Apps like it's 1972__
+
 
 # Call for Presentations
 ![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/banner.png)
