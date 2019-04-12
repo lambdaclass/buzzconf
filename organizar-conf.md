@@ -55,7 +55,7 @@
 - Antes de que empiece todo probar el livestreaming si lo hay
 - Probar equipos de sonido
 
-### Durante la conf
+### 🦔 Durante la conf
 - Publicar fotos y actualizaciones durante la charla para la gente que no pudo venir.
 - Prestar atención al bienestar de los asistentes y al cumplimiento del Code of Conduct.
 - Una persona controla la entrada en todo momento.
