@@ -1,4 +1,31 @@
-# Speakers
+# About
+
+The BuzzConf consists of BuzzConf Workshops and BuzzConf Talks. It also has a sister conference, [Zruput](https://zruput.org/), which is about telecommunications. 
+
+BuzzConf Workshops: June 12 @ La Maquinita Belgrano, Buenos Aires, Argentina
+BuzzConf Talks: June 13 @ Ciudad Cultural Konex, Buenos Aires, Argentina
+Zruput: June 14 @ Ciudad Cultural Konex, Buenos Aires, Argentina
+
+Tickets for all three are sold separately.
+
+# Tickets
+
+BuzzConf Talks and Workshops available [here](https://buzzconf2019.eventbrite.com.ar/)
+Zruput Talks available [here](https://zruput.eventbrite.com.ar/)
+
+# BuzzConf Topics
+
+- functional programming
+- distributed systems
+- embedded systems
+- big data
+- artificial intelligence
+- machine learning
+- profiling/debugging
+- programming languages design
+
+
+# BuzzConf Talks
 ## Philip Wadler
 ![Philip Wadler](./images/speakers/small/pwadler.png)
 
@@ -49,73 +76,23 @@ _Machine Learning_
 __Desmitificando machine learning__
 
 ## Leandro Ostera
-![Leandro Ostera](./images/speakers/small/ostera.png)
+![Leandro Ostera](./images/speakers/small/lostera.png)
 
 _Programming Languages_
 
 __Building Web Apps like it's 1972__
 
 
-# Call for Presentations
-![buzzconf poster](https://raw.githubusercontent.com/lambdaclass/buzzconf/master/banner.png)
+# BuzzConf Workshops
 
-- [English](#call-for-presentations)
-- [Spanish](#convocatoria-para-la-presentación-de-charlas)
+## Osvaldo Martin
+Modelado probabilístico: si es Bayes, es bueno
 
-**To submit your talk proposal please complete the following form:**
-
-https://goo.gl/forms/TWe0DO7wKRRnAf4E2
-
-BuzzConf is a conference by developers for developers thats brings the new horizons in computer science to a bigger audience.
-
-Topics of interest include:
-- functional programming
-- distributed systems
-- embedded systems
-- big data
-- artificial intelligence
-- machine learning
-- profiling/debugging
-- programming languages design
-
-# Tickets
-
-Tickets are available at [eventbrite](https://buzzconf2019.eventbrite.com.ar/)
 
 # Code of Conduct
 
 Please read and follow the [code of conduct](./CODE_OF_CONDUCT.md) of the conference.
- 
 
----
-
-# Convocatoria para la presentación de charlas
-
-**Para enviar tu propuesta de charla, completá el siguiente formulario:**
-
-https://goo.gl/forms/TWe0DO7wKRRnAf4E2
-
-BuzzConf es una conferencia hecha por desarrolladores para desarolladores, que explora los nuevos horizontes de la informática tale como la programación funcional, los sistemas distribuidos, big data, machine learning y otras áreas interdisciplinarias y los acerca a un público más amplio.
-
-La conferencia tendrá lugar el **Jueves 13 y Viernes 14 de Junio 2019 en Buenos Aires, Argentina**. La conferencia se realizará en la Ciudad Cultural Konex (Sarmiento 3131)
-
-Las áreas de particular interés para la conferencia incluyen, pero no están limitadas a:
-- diseño de lenguajes de programación
-- programación funcional
-- datos distribuidos
-- machine learning
-- big data
-- profiling / debugging
-- sistemas embebidos
-- herramientas modernas para hacer frente a la complejidad del mundo
-
-# Entradas
-
-Entradas a la venta en [eventbrite](https://buzzconf2019.eventbrite.com.ar/).
-
-# Código de conducta
-
-Por favor lea y siga el [código de conducta](./CODE_OF_CONDUCT.md) de la conferencia.
 
 ---
 
