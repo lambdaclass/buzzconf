@@ -90,11 +90,11 @@ __Building Web Apps like it's 1972__
 
 # BuzzConf Workshops
 
-## Osvaldo Martin
-__Modelado probabilístico: si es Bayes, es bueno__
+![Osvaldo Martin](./images/speakers/small/OMartinWorkshop.png)
 
 Un enfoque moderno, práctico y computacional al modelado bayesiano utilizando PyMC3 y ArviZ. Una guía paso a paso con los principales conceptos teóricos y las buenas prácticas para crear, resolver y criticar modelos probabilistas aplicados a problemas prácticos.
 
+![Santiago Pastorino](./images/speakers/small/SPastorinoWorkshop.png)
 
 
 # Code of Conduct
