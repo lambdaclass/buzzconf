@@ -64,6 +64,8 @@ _Probabilistic Programming_
 
 __Probabilistic programming with PyMC and ArviZ__ 
 
+La estadística Bayesiana ofrece un marco general, flexible y conceptualmente simple para el análisis de datos. Sin embargo su aplicación suele estar asociada a retos matemáticos y computacionales de gran magnitud. La programación probabilista surge en respuesta a estos retos con el objetivo de popularizar el uso de la estadística Bayesiana.
+
 ## Johanna Faliero
 ![Johanna Faliero](./images/speakers/small/jfaliero.png)
 
@@ -89,7 +91,10 @@ __Building Web Apps like it's 1972__
 # BuzzConf Workshops
 
 ## Osvaldo Martin
-Modelado probabilístico: si es Bayes, es bueno
+__Modelado probabilístico: si es Bayes, es bueno__
+
+Un enfoque moderno, práctico y computacional al modelado bayesiano utilizando PyMC3 y ArviZ. Una guía paso a paso con los principales conceptos teóricos y las buenas prácticas para crear, resolver y criticar modelos probabilistas aplicados a problemas prácticos.
+
 
 
 # Code of Conduct
