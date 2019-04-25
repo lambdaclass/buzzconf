@@ -66,13 +66,6 @@ __Probabilistic programming with PyMC and ArviZ__
 
 La estadística Bayesiana ofrece un marco general, flexible y conceptualmente simple para el análisis de datos. Sin embargo su aplicación suele estar asociada a retos matemáticos y computacionales de gran magnitud. La programación probabilista surge en respuesta a estos retos con el objetivo de popularizar el uso de la estadística Bayesiana.
 
-## Johanna Faliero
-![Johanna Faliero](./images/speakers/small/jfaliero.png)
-
-_Data Security_
-
-__Data Security Chimaera: riesgos y enigmas que nos depara el tratamiento de nuestros datos__
-
 ## Sebastián Waisbrot
 ![Sebastián Waisbrot](./images/speakers/small/swaisbrot.png)
 
