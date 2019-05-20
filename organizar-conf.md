@@ -7,11 +7,12 @@
 - Armar el evento en Eventbrite y poner las entradas - Initial Offer a la venta
 - Abrir la Call for Presentations
 - Empezar a subir algún contenido a redes sociales
+- Definir precios y beneficios para los distintos niveles de sponsorship. Armar brochure
 
 ### 🔮 7 meses antes
-- Empezar a contactar speakers 
+- Empezar a contactar speakers
 - Empezar a contactar sponsors
-- En redes sociales tratar de conseguir la mayor cantidad de seguidores y difusión. 
+- En redes sociales tratar de conseguir la mayor cantidad de seguidores y difusión
 
 ### 🌔️ 5 meses antes
 - Confirmar algunos speakers
@@ -42,7 +43,8 @@
 - Hacer descuentos y sorteos de entradas si sobra lugar
 - Aumentar la difusión porque hay mucha gente que espera a estar muy cerca de la fecha para anotarse. Mandar mail a la mailing list, considerar publicidad paga.
 - Se pueden publicar las slides anticipadamente para que el público las conozca
-- Armar horarios de la conferencia, publicar online e informar a los speakers a qué hora es su charla.
+- Armar horarios de la conferencia, publicar online e informar a los speakers a qué hora es su charla
+- Convocar voluntarios para que colaboren el día de la conferencia
 
 ### 🍁 7 días antes
 - Armar las bolsas de swag
@@ -50,20 +52,25 @@
 - Tener listo todo lo que se va a llevar a la conferencia (stickers, banners, sonido, computadoras, cámaras, etc)
 - Avisar al catering cuánta gente eligió menú especial
 - Chequear con los speakers que todo está bien
+- Organizar actividad para los speakers (ej. Speakers' Dinner) y sacar entradas o reservar de ser necesario
+- Abonar seguro para todos los que van a trabajar en el lugar
+- Preparar slides de intro y outro de la conferencia, con agradecimientos a los speakers, voluntarios, sponsors, etc.
+- Preparar presentación de cada speaker, elegir quién los va a presentar
 
 ### 🐲 Justo antes de la conf
 - Antes de que empiece todo probar el livestreaming si lo hay
 - Probar equipos de sonido
 
 ### 🦔 Durante la conf
-- Publicar fotos y actualizaciones durante la charla para la gente que no pudo venir.
-- Prestar atención al bienestar de los asistentes y al cumplimiento del Code of Conduct.
+- Publicar fotos y actualizaciones durante la charla para la gente que no pudo venir
+- Prestar atención al bienestar de los asistentes y al cumplimiento del Code of Conduct
 - Una persona controla la entrada en todo momento.
 
 ### 🌅 Después de la conf
 - Enviar una encuesta a los asistentes que dejaron mail para ver en qué podemos mejorar
 - Publicar los videos y fotos del evento
 - Enviar agradecimientos a los speakers
+- Si está dentro de los beneficios ofrecidos, enviar listado de asistentes que quisieron compartir sus datos a los sponsors
 
 ---
 
