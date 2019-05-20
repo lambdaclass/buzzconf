@@ -351,7 +351,7 @@ svg.icon.icon-right-arrow {
   background-image: url(./images/ufo.png?7d539baef6583c3aed7e55ca7c2b7e10);
   background-repeat: no-repeat;
   background-position: top left;
-  background-size: contain;
+  background-size: auto;
   margin-top: 74px;
 }
 
@@ -359,7 +359,7 @@ svg.icon.icon-right-arrow {
   background-image: url(./images/globe.png?da396c2baf9b6936b09bdf97ecf3bdf3);
   background-repeat: no-repeat;
   background-position: top right;
-  background-size: contain;
+  background-size: 23rem;
   margin-top: 160px;
 }
 
