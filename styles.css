@@ -47,9 +47,8 @@ body {
   color: #fff;
   font-family: "Circular Std", sans-serif;
 }
-
 #hero {
-    min-height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -58,8 +57,8 @@ body {
   text-align: center;
 }
 .awesome-bg{
-     background-image: url(./images/base.png);
-      background-size: contain;
+  background-image: url(./images/base.png);
+  background-size: contain;
   background-repeat: no-repeat;
      
 }
@@ -190,7 +189,20 @@ body {
 .speaker img {
   max-width: 100%;
 }
-
+.watch img{
+  width: 2em;
+  margin-right: 0.5em;
+}
+.watch{
+  color: #FF0000;
+  text-align: center;
+}
+.watch:hover{
+  color: #FF0000;
+}
+.watch_container{
+  margin-bottom: 2em;
+}
 .speaker .name {
     margin-top: 1rem;
   font-size: 25px;
@@ -370,7 +382,6 @@ svg.icon.icon-right-arrow {
 .agenda-title[aria-expanded="false"] .minus-icon {
   display: none;
 }
-
 
 @media (max-width: 767.98px) {
   .big-text {
