@@ -283,7 +283,8 @@ footer {
   text-align: center;
 }
 
-footer .copyright {
+footer .copyright,
+footer .previous-years {
   padding-top: 2rem;
 }
 
