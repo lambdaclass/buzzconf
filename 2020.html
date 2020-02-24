@@ -235,40 +235,49 @@
 
   <!--Start Daily Schedule Section-->
   <section class="section-padding" id="schedule">
+    <div class="container">
+      <h1 class="section-title">Workshops / Talks</h1>
+      <div id="workshop-ufo">
+        <img src="images/ufo.svg" class="ufo" alt="ufo">
+      </div>
+    </div>
     <!--Start Workshops-->
     <div class="day-two">
       <div class="container">
-        <h1 class="section-title">Workshops / Talks</h1>
-        <div class="section-title offset-md-1 day">JUNE 12TH - WORKSHOPS</div>
+        <div class="day-title day">JUNE 12TH - WORKSHOPS</div>
         <div class="row">
-          <div class="col-md-8 offset-md-1">
+          <div class="col-md-8">
             <div class="accordion" id="accordionTwo">
 
               <!--Start Workshops Buttons-->
               <div>
                 <button class="agenda-title" type="button" data-toggle="collapse" data-target="#collapseTwo"
                   aria-expanded="false" aria-controls="collapseTwo">
-                  Introducción a Rust
+                  <div>
+                    <div class="title">Introducción a Rust</div>
+                    <div class="time">Santiago Pastorino / 10:00 hs</div>
+                  </div>
                   <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
                   <img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
                 </button>
 
                 <div id="collapseTwo" class="collapse agenda-desc" aria-labelledby="headingTwo">
-                  <p><span>Santiago Pastorino</span><span style="margin-left:10px">Time: 10:00</span></p>
-                  <p> </p>
+                  <p>Acá podría ir una descripción muy interesante.</p>
                 </div>
               </div>
               <div>
                 <button class="agenda-title" type="button" data-toggle="collapse" data-target="#collapseOne"
                   aria-expanded="false" aria-controls="collapseOne">
-                  Modelado probabilístico: Si es Bayes, es bueno
+                  <div>
+                    <div class="title">Modelado probabilístico: Si es Bayes, es bueno</div>
+                    <div class="time">Osvaldo Martin / 13:00 hs</div>
+                  </div>
                   <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
                   <img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
                 </button>
 
                 <div id="collapseOne" class="collapse agenda-desc" aria-labelledby="headingOne">
                   <p><span>Osvaldo Martin</span><span style="margin-left:10px">Time: 13:00</span></p>
-                  <p> </p>
                 </div>
               </div>
             </div>
@@ -281,9 +290,9 @@
     <!--Start Day 1-->
     <div class="day-one">
       <div class="container">
-        <div class="section-title offset-md-1 day">JUNE 13TH - BUZZCONF TALKS</div>
+        <div class="day-title day">JUNE 13TH - BUZZCONF TALKS</div>
         <div class="row">
-          <div class="col-md-8 offset-md-4">
+          <div class="col-md-8">
             <div class="accordion" id="accordionOne">
 
               <!--Start Day 1 Buttons-->
@@ -325,7 +334,7 @@
 
                 <div id="collapseSeven" class="collapse agenda-desc" aria-labelledby="headingThree">
                   <p><span>Osvaldo Martin</span><span style="margin-left:10px">Time: 11:20</span></p>
-                  <p> </p>
+
                 </div>
               </div>
 
@@ -378,7 +387,7 @@
 
                 <div id="collapseEleven" class="collapse agenda-desc" aria-labelledby="headingSeven">
                   <p><span>Sebastian Waisbrot</span><span style="margin-left:10px">Time: 15:45</span></p>
-                  <p> </p>
+
                 </div>
               </div>
               <div>
@@ -391,7 +400,7 @@
 
                 <div id="collapseTwelve" class="collapse agenda-desc" aria-labelledby="headingSeven">
                   <p><span>Simon Thompson</span><span style="margin-left:10px">Time: 16:40</span></p>
-                  <p> </p>
+
                 </div>
               </div>
               <div>
@@ -405,7 +414,7 @@
                 <div id="collapseThirteen" class="collapse agenda-desc" aria-labelledby="headingSeven">
                   <p><span>Phil Hagelberg (A.K.A. Technomancy)</span><span style="margin-left:10px">Time: 17:40</span>
                   </p>
-                  <p> </p>
+
                 </div>
               </div>
               <!-- End Day 1 Buttons-->
@@ -416,106 +425,6 @@
     </div>
     </div>
     <!--End Day 1-->
-
-    <!--Start Day 2-->
-    <div class="day-two">
-      <div class="container">
-        <div class="section-title offset-md-1 day">JUNE 14TH - ZRUPUT TALKS</div>
-        <div class="row">
-          <div class="col-md-8 offset-md-1">
-            <div class="accordion" id="accordionTwo">
-
-              <!--Start Day 2 Buttons-->
-              <div>
-                <button class="agenda-title" type="button" data-toggle="collapse" data-target="#collapseOne"
-                  aria-expanded="false" aria-controls="collapseOne">
-                  Librerouter: Independencia tecnológica para redes comunitarias
-                  <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
-                  <img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
-                </button>
-
-                <div id="collapseOne" class="collapse agenda-desc" aria-labelledby="headingOne">
-                  <p><span>Santiago Picinini</span><span style="margin-left:10px">Time: 09:00</span></p>
-                  <p>Usando software y hardware abierto para llevar internet a comunidades aisladas</p>
-                </div>
-              </div>
-              <div>
-                <button class="agenda-title" type="button" data-toggle="collapse" data-target="#collapseTwo"
-                  aria-expanded="false" aria-controls="collapseTwo">
-                  Optical Communication in development of very high throughput spaceborne networks
-                  <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
-                  <img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
-                </button>
-
-                <div id="collapseTwo" class="collapse agenda-desc" aria-labelledby="headingTwo">
-                  <p><span>Santiago Tempone</span><span style="margin-left:10px">Time: 09:40</span></p>
-                  <p>Communicating satellites through laser beams</p>
-                </div>
-              </div>
-              <div>
-                <button class="agenda-title" type="button" data-toggle="collapse" data-target="#collapseThree"
-                  aria-expanded="false" aria-controls="collapseThree">
-                  Cómo bajar muchos gigas de un satélite LEO en 10 minutos
-                  <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
-                  <img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
-                </button>
-
-                <div id="collapseThree" class="collapse agenda-desc" aria-labelledby="headingThree">
-                  <p><span>Francisco Albani</span><span style="margin-left:10px">Time: 10:20</span></p>
-                  <p>Cómo diseñar una conexión con un satélite de órbitas bajas para bajar grandes volúmenes de datos
-                  </p>
-                </div>
-              </div>
-              <div>
-                <button class="agenda-title" type="button" data-toggle="collapse" data-target="#collapseFour"
-                  aria-expanded="false" aria-controls="collapseFour">
-                  Estado del arte, desafíos y lo que nadie te cuenta de IoT
-                  <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
-                  <img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
-                </button>
-
-                <div id="collapseFour" class="collapse agenda-desc" aria-labelledby="headingFour">
-                  <p><span>Sebastián García Marra</span><span style="margin-left:10px">Time: 11:00</span></p>
-                  <p>Estado del arte, desafíos y todo lo que siempre quisiste saber de trabajar con la Internet of
-                    Things</p>
-                </div>
-              </div>
-              <div>
-                <button class="agenda-title" type="button" data-toggle="collapse" data-target="#collapseFive"
-                  aria-expanded="false" aria-controls="collapseFive">
-                  Evolución de los patrones de uso de internet y nuevas formas móviles de consumir TV
-                  <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
-                  <img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
-                </button>
-
-                <div id="collapseFive" class="collapse agenda-desc" aria-labelledby="headingFive">
-                  <p><span>Mariela Fiorenzo</span><span style="margin-left:10px">Time: 11:40</span></p>
-                  <p> </p>
-                </div>
-              </div>
-              <div>
-                <button class="agenda-title" type="button" data-toggle="collapse" data-target="#collapseSix"
-                  aria-expanded="false" aria-controls="collapseSix">
-                  TV digital libre: transmisión y recepción de ISDB-T con SDR
-                  <img class="float-right plus-icon" height="20" width="20" src="./images/add.svg" alt="Toggle">
-                  <img class="float-right minus-icon" height="20" width="20" src="./images/minus.svg" alt="Toggle">
-                </button>
-
-                <div id="collapseSix" class="collapse agenda-desc" aria-labelledby="headingSix">
-                  <p><span>Federico La Rocca</span><span style="margin-left:10px">Time: 12:20</span></p>
-                  <p> </p>
-                </div>
-              </div>
-              <!--End Day 2 Buttons-->
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <!--End Day 2-->
-
   </section>
   <!--End Daily Schedule Section-->
 
@@ -595,8 +504,8 @@
         <h1>Get all the news</h1>
 
         <form action="/">
-          <input class="col-7 col-md-5" type="email" placeholder="Your Email Address" required />
-          <input type="submit" value="Subscribe" class="conf-btn col-3" />
+          <input class="col-7 col-md-5 col-sm-4" type="email" placeholder="Your Email Address" required />
+          <input type="submit" value="Subscribe" class="conf-btn col-4" />
         </form>
       </div>
 

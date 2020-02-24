@@ -154,6 +154,21 @@ body {
   }
 }
 
+
+@keyframes ufo-float {
+  0% {
+    transform: translatey(0px);
+  }
+
+  50% {
+    transform: translatey(20px);
+  }
+
+  100% {
+    transform: translatey(0px);
+  }
+}
+
 @-webkit-keyframes buzz {
   50% {
     -webkit-transform: translateX(3px) rotate(2deg);
@@ -324,6 +339,17 @@ body {
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
   gap: 3rem 4rem;
 
+}
+
+.day-title {
+  font-size: 2rem;
+  color: var(--secondary-color);
+  margin: 2rem 0 3rem;
+}
+
+.time {
+  font-size: 1rem;
+  color: var(--main-color);
 }
 
 @media (max-width: 991px) {
@@ -540,6 +566,9 @@ svg.icon.icon-right-arrow {
   width: 100%;
   text-align: left;
   margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .agenda-title:focus,
@@ -551,29 +580,23 @@ svg.icon.icon-right-arrow {
   color: rgba(255, 255, 255, 0.75);
 }
 
+.agenda-desc p {
+  padding-bottom: 1rem;
+
+}
+
 #accordionOne>div,
 #accordionTwo>div {
   margin-bottom: 2rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-#accordionTwo>div {
-  margin-left: 50px;
-}
-
 .day-one {
-  background-image: url(./images/ufo.png?7d539baef6583c3aed7e55ca7c2b7e10);
-  background-repeat: no-repeat;
-  background-position: top left;
-  background-size: auto;
   margin-top: 74px;
 }
 
 .day-two {
-  background-image: url(./images/globe.png?da396c2baf9b6936b09bdf97ecf3bdf3);
-  background-repeat: no-repeat;
-  background-position: top right;
-  background-size: 23rem;
+  margin-top: 4rem;
 }
 
 .agenda-title[aria-expanded="true"] .plus-icon {
@@ -584,12 +607,28 @@ svg.icon.icon-right-arrow {
   display: none;
 }
 
+#schedule {
+  position: relative;
+}
+
+#workshop-ufo {
+  position: absolute;
+  top: 5rem;
+  right: 20vw;
+  animation: ufo-float 2s ease-in-out infinite;
+}
+
+#workshop-ufo img {
+  width: 8rem;
+}
+
 @media (max-width: 767.98px) {
   .big-text {
-    font-size: 35px;
+    font-size: 52px;
   }
 
   .big-text+p {
+    width: 100%;
     font-size: 1rem;
   }
 
@@ -597,14 +636,51 @@ svg.icon.icon-right-arrow {
     font-size: 1rem;
   }
 
+  .big-text .buzzconf {
+    animation: buzz 100ms linear 6.5s 8 alternate;
+    display: inline-block;
+  }
+
+  #hero {
+    min-height: auto;
+    padding: 5rem 0;
+    height: 100vh;
+  }
+
   #hero .small-cta>* {
     font-size: 1rem;
     padding: 10px 20px;
   }
 
+  #hero .city {
+    width: 100%;
+    bottom: -20vh;
+    top: auto;
+    right: -16vh;
+  }
+
+  #hero #ufo {
+    position: absolute;
+    width: 8rem;
+    left: -70vw;
+    top: 30%;
+    animation: ufo-stuff 7.5s ease-out 1;
+    z-index: 20;
+  }
+
+  #hero .ufo {
+    transform: rotate(15deg);
+    animation: ufo-rotate 7.5s ease-out 1;
+  }
+
   .section-title {
-    font-size: 24px;
+    font-size: 32px;
     margin-bottom: 3rem;
+    margin-top: 1rem;
+  }
+
+  .section-padding {
+    padding: 2rem 0;
   }
 
   .speaker .count {
@@ -638,6 +714,11 @@ svg.icon.icon-right-arrow {
 
   #sponsors h3 {
     font-size: 20px;
+  }
+
+  .hall {
+    min-height: 230px;
+    margin: 15px;
   }
 
   .hall .title {
@@ -677,7 +758,7 @@ svg.icon.icon-right-arrow {
 
   .newsletter form input {
     padding: 10px 20px;
-    font-size: 10px;
+    font-size: 1rem;
   }
 
   #speaker {
@@ -696,4 +777,16 @@ svg.icon.icon-right-arrow {
     min-height: auto;
     padding: 6rem 0;
   }
+
+  .day-title {
+    font-size: 1.5rem;
+    color: var(--secondary-color);
+    margin: 1rem 0;
+  }
+
+  .day-one {
+    margin: 0;
+  }
 }
+
+@media (max-width: 767.98px) {}
