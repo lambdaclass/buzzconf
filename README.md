@@ -12,9 +12,7 @@ Tickets for all three are sold separately.
 
 # Tickets
 
-BuzzConf Talks and Workshops available [here](https://buzzconf2019.eventbrite.com.ar/)
-
-Zruput Talks available [here](https://zruput.eventbrite.com.ar/)
+BuzzConf Talks and Workshops available [here](https://buzzconf2020.eventbrite.com.ar/)
 
 # BuzzConf Topics
 
