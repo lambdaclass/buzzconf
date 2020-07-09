@@ -2,14 +2,6 @@
 
 The BuzzConf consists of BuzzConf Workshops and BuzzConf Talks. It also has a sister conference, [Zruput](https://zruput.org/), which is about telecommunications. 
 
-**BuzzConf Workshops:** June 12 @ La Maquinita Belgrano, Buenos Aires, Argentina
-
-**BuzzConf Talks:** June 13 @ Ciudad Cultural Konex, Buenos Aires, Argentina
-
-**Zruput:** June 14 @ Ciudad Cultural Konex, Buenos Aires, Argentina
-
-Tickets for all three are sold separately.
-
 # Tickets
 
 BuzzConf Talks and Workshops available [here](https://buzzconf2020.eventbrite.com.ar/)
