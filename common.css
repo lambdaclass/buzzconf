@@ -1,0 +1,35 @@
+:root {
+  --main-color: #e145ab;
+  --secondary-color: #00ccce;
+}
+
+.current-edition{
+  position: fixed;
+  top: 0;
+  left:0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.288);
+  padding: 1rem 0;
+  color: #aaa;
+  z-index: 10;
+  font-weight: 300;
+  transition: 0.2s opacity ease;
+}
+.current-edition a {
+  color: var(--main-color);
+  margin-left: 2rem;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.current-edition svg{
+  transform: rotate(180deg);
+  margin-right: 1rem;
+  transition: 0.3s all ease;
+}
+
+.current-edition a:hover svg {
+  transform: rotate(180deg) translateX(.5rem);
+}
